@@ -1,0 +1,6 @@
+gui.launchgui.update.title=%s 更新检测
+gui.launchgui.update.avail=有新的版本可获取!
+gui.launchgui.update.avail.version=版本 %s
+gui.launchgui.update.avail.info=点击下方的按钮了解更多信息!
+
+#Chinese translated by 枫川

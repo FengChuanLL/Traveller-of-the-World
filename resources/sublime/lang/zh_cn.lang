@@ -1,0 +1,107 @@
+// Items=钨
+item.iridium.name=铱
+item.iridium_rod.name=铱杆
+item.niobium_ingot.name=铌锭
+item.tungsten_ingot.name=钨锭
+item.tungsten_rod.name=钨杆
+item.door_bloodless_elm.name=血榆木门
+item.door_hanami.name=花见门
+item.door_yedoensis.name=银樱木门
+
+// Blocks
+tile.iridium_ore.name=铱矿石
+tile.niobium_ore.name=铌矿石
+tile.tungsten_ore.name=钨矿石
+tile.iridium_block.name=铱块
+tile.niobium_block.name=铌块
+tile.tungsten_block.name=钨块
+tile.niobium_chest.name=铌箱子
+tile.tungsten_furnace.name=钨熔炉
+tile.tungsten_furnace_lit.name=钨熔炉
+tile.log_bloodless_elm.name=血榆木原木
+tile.log_hanami.name=花见原木
+tile.log_yedoensis.name=银樱木原木
+tile.planks_bloodless_elm.name=血榆木木板
+tile.planks_hanami.name=花见木板
+tile.planks_yedoensis.name=银樱木木板
+tile.leaves_bloodless_elm.name=血榆木树叶
+tile.leaves_fallen.name=Fallen树叶
+tile.leaves_hanami.name=花见树叶
+tile.leaves_yedoensis.name=银樱木树叶
+tile.sapling_bloodless_elm.name=血榆木树苗
+tile.sapling_hanami.name=花见树苗
+tile.sapling_yedoensis.name=银樱木树苗
+tile.muted_dirt.name=柔软的泥土
+tile.muted_grass.name=柔软的草方块
+tile.muted_farmland.name=柔软的耕地
+tile.flower_astrantia.name=大星芹
+tile.flower_chrysanthemum.name=菊花
+tile.double_plant_eterisk.name=埃泰花
+tile.calamagrostis.name=芦苇
+tile.lotus.name=莲花
+tile.thatch.name=茅草
+tile.fence_bloodless_elm.name=血榆木栅栏
+tile.fence_hanami.name=花见栅栏
+tile.fence_yedoensis.name=银樱木栅栏
+tile.fence_gate_bloodless_elm.name=血榆木栅栏门
+tile.fence_gate_hanami.name=花见栅栏门
+tile.fence_gate_yedoensis.name=银樱木栅栏门
+tile.slab_bloodless_elm.name=血榆木台阶
+tile.slab_hanami.name=花见台阶
+tile.slab_yedoensis.name=银樱木台阶
+tile.stairs_bloodless_elm.name=血榆木楼梯
+tile.stairs_hanami.name=花见楼梯
+tile.stairs_yedoensis.name=银樱木楼梯
+tile.door_bloodless_elm.name=血榆木门
+tile.door_hanami.name=花见门
+tile.door_yedoensis.name=银樱木门
+
+// Armor
+item.iridium_helmet.name=铱头盔
+item.iridium_chestplate.name=铱箱子胸甲
+item.iridium_leggings.name=铱护腿
+item.iridium_boots.name=铱靴子
+item.niobium_helmet.name=铌头盔
+item.niobium_chestplate.name=铌箱子胸甲
+item.niobium_leggings.name=铌护腿
+item.niobium_boots.name=铌靴子
+item.tungsten_helmet.name=钨头盔
+item.tungsten_chestplate.name=钨箱子胸甲
+item.tungsten_leggings.name=钨护腿
+item.tungsten_boots.name=钨靴子
+
+// Tools
+item.iridium_pickaxe.name=铱稿
+item.iridium_axe.name=铱斧
+item.iridium_shovel.name=铱锹
+item.iridium_hoe.name=铱锄
+item.iridium_sword.name=铱剑
+item.niobium_pickaxe.name=铌稿
+item.niobium_axe.name=铌斧
+item.niobium_shovel.name=铌锹
+item.niobium_hoe.name=铌锄
+item.niobium_sword.name=铌剑
+item.tungsten_pickaxe.name=钨稿
+item.tungsten_axe.name=钨斧
+item.tungsten_shovel.name=钨锹
+item.tungsten_hoe.name=钨锄
+item.tungsten_sword.name=钨剑
+
+// Containers
+container.niobium_chest=铌箱子
+container.tungsten_furnace=钨熔炉
+
+// Creative Tabs
+itemGroup.sublime=崇圣之地
+
+// Config
+sublime.config.title=Sublime Config
+sublime.config.cat.world_generation=World Generation
+sublime.config.cat.passive_mob_spawning=Passive Mob Spawning
+sublime.config.cat.hostile_mob_spawning=Hostile Mob Spawning
+
+// World gen
+generator.sublime=崇圣之地
+generator.sublime.info=崇圣之地群系
+
+#Chinese translated by 枫川

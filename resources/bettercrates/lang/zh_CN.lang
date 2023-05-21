@@ -1,0 +1,40 @@
+#General
+itemGroup.bettercrates=更好的板条箱
+
+#Crate
+tile.wooden_crate.name=§f木板条箱
+tile.copper_crate.name=§f铜板条箱
+tile.tin_crate.name=§f锡板条箱
+tile.iron_crate.name=§f铁板条箱
+tile.golden_crate.name=§f金板条箱
+tile.diamond_crate.name=§f钻石板条箱
+tile.obsidian_crate.name=§f黑曜石板条箱
+
+#Crate tooltip
+item.crate_base.tooltip=§3保存内容
+item.crate_base2.tooltip=§4爆炸保护
+
+#Upgrade
+item.up_wooden.name=木板条箱升级装置
+item.up_copper.name=铜板条箱升级装置
+item.up_tin.name=锡板条箱升级装置
+item.up_iron.name=铁板条箱升级装置
+item.up_golden.name=铁/金板条箱升级装置
+item.up_golden2.name=铜/金板条箱升级装置
+item.up_golden3.name=锡/金板条箱升级装置
+item.up_diamond.name=钻石板条箱升级装置
+item.up_obsidian.name=黑曜石板条箱升级装置
+
+#Upgrade tooltip
+item.up.tooltip_base=§7(§6§o潜行状态下右键进行使用§7)
+item.up_wooden.tooltip=§3升级 §4箱子§7> §2木板条箱
+item.up_copper.tooltip=§3升级 §4箱子§7> §2铜板条箱
+item.up_tin.tooltip=§3升级 §4箱子§7> §2锡板条箱
+item.up_iron.tooltip=§3升级 §4木板条箱 §7> §2铁板条箱
+item.up_golden.tooltip=§3升级 §4铁板条箱 §7> §2金板条箱
+item.up_golden2.tooltip=§3升级 §4铜板条箱 §7> §2金板条箱
+item.up_golden3.tooltip=§3升级 §4锡板条箱 §7> §2Golden板条箱
+item.up_diamond.tooltip=§3升级 §4金板条箱 §7> §2钻石板条箱
+item.up_obsidian.tooltip=§3升级 §4钻石板条箱 §7> §2黑曜石板条箱
+
+#Chinese translated by 枫川

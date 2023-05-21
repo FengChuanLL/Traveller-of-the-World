@@ -1,0 +1,48 @@
+# Manage Screenshots Screen translation keys
+screen.screenshot_viewer.manage_screenshots=管理截图...
+screen.screenshot_viewer.screenshot_manager.zoom=缩放模式 (按住 CTRL)
+screen.screenshot_viewer.screenshot_manager.no_screenshots=看起来你还没有任何截图!
+screen.screenshot_viewer.button.refresh=刷新截图
+screen.screenshot_viewer.no_config=在游戏中更改配置是不被允许的，可以尝试安装MOD管理模组进行操作
+screen.screenshot_viewer.button.config=配置...
+screen.screenshot_viewer.button.order=排序
+screen.screenshot_viewer.button.order.ascending=按升序排序
+screen.screenshot_viewer.button.order.descending=按降序排序
+screen.screenshot_viewer.button.screenshot_folder=打开截图文件夹
+screen.screenshot_viewer.button.delete_screenshot=删除
+screen.screenshot_viewer.button.open_file=打开文件
+screen.screenshot_viewer.button.rename_file=重命名截图
+screen.screenshot_viewer.button.close_properties_menu=关闭
+screen.screenshot_viewer.delete_prompt=删除 '%s'
+screen.screenshot_viewer.delete_prompt.message=你确定你要删除截图吗 ?
+screen.screenshot_viewer.rename_screenshot=为你的新截图取个名字:
+screen.screenshot_viewer.field.screenshot_name=新的截图名字
+
+# Config translation keys
+screen.screenshot_viewer.config=Screenshot Viewer Config
+
+config.screenshot_viewer.use_new_button_textures=Use New Button Textures
+config.screenshot_viewer.use_new_button_textures.desc=If set to true, the buttons in the mod's screens will be using the 1.15+ hovering textures.
+config.screenshot_viewer.show_button_in_game_pause_menu=Show Button In Pause Menu
+config.screenshot_viewer.show_button_in_game_pause_menu.desc=Shows a button to access screenshots directly in the pause menu.
+config.screenshot_viewer.show_button_on_title_screen=Show Button On Title Screen
+config.screenshot_viewer.show_button_on_title_screen.desc=Shows a button to access screenshots directly on the title screen.
+config.screenshot_viewer.enable_screenshot_enlargement_animation=Enable Screenshot Enlargement Animation
+config.screenshot_viewer.enable_screenshot_enlargement_animation.desc=Whether a growing animation should play when a screenshot on the screen is clicked to be enlarged.
+config.screenshot_viewer.prompt_when_deleting_screenshot=Prompt When Deleting Screenshot
+config.screenshot_viewer.prompt_when_deleting_screenshot.desc=Warns you with a confirmation screen when trying to delete a screenshot.
+config.screenshot_viewer.initial_screenshot_amount_per_row=Initial Screenshot Amount Per Row
+config.screenshot_viewer.initial_screenshot_amount_per_row.desc=Number of screenshots to be displayed per row when the screen is opened (from 2 to 8).
+config.screenshot_viewer.screen_scroll_speed=Scroll speed
+config.screenshot_viewer.screen_scroll_speed.desc=Scroll speed of the screen (from 1 to 50).
+config.screenshot_viewer.screenshot_element_background_opacity=Background Opacity of the Screenshot Elements
+config.screenshot_viewer.screenshot_element_background_opacity.desc=Opacity of the background that appears when the screenshot elements are hovered (from 0 to 100).
+config.screenshot_viewer.render_screenshot_element_font_shadow=Render Screenshot Element Font Shadow
+config.screenshot_viewer.render_screenshot_element_font_shadow.desc=If a font shadow should be rendered under the screenshot elements text.
+config.screenshot_viewer.screenshot_element_text_color=Screenshot Elements Text Color
+config.screenshot_viewer.screenshot_element_text_color.desc=Color of the texts describing the screenshots elements.
+
+# Key binding
+key.screenshot_viewer.open_screenshots_screen=打开截图浏览器
+
+#Chinese translated by 枫川

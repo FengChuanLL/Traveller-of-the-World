@@ -1,0 +1,64 @@
+
+mat.biome.override=手动选择生物群系: %s
+mat.biome.undef=未定义的生物群系 (%d)
+mat.biome.unamed=未命名的生物群系 (%d)
+mat.biome.disabled=禁用 (使用当前的群系)
+mat.biome.biome=仅 %s (%d)
+
+mat.mode.dev=§6调试模式：正在查看 §e§o%s (%s)
+
+mat.options.close=关闭
+mat.options.done=关闭
+mat.options.osd=§6显示在屏幕
+mat.options.reload=重载文件
+mat.options.sounds=生成 sounds.json
+mat.options.prev=上一页
+mat.options.next=下一页
+mat.options.volume=全局音量: %d
+mat.options.volume.ambient=基础环境音量: %d
+mat.options.advanced=高级选项...
+mat.options.start.true=自动启用: 开
+mat.options.start.false=自动启用: 关（需按设置菜单键手动开启）
+mat.options.discard=取消选择
+mat.options.deltas=变化量
+
+mat.options.devmode=§6调试模式
+mat.options.ambience.low=低空氛围音效
+mat.options.ambience.high=高空氛围音效
+mat.options.reverse=
+mat.options.editor=编辑...
+mat.options.editor.disabled=§7编辑器已禁用
+mat.options.hint.overrides=如果您使用了会更改基础世界高度的模组\n(例如 TFC), 您可以通过以下方式使音效包兼容：\n\n1. 开启 §6调试/编辑 模式§r\n2. 点击相关音效包旁边的 §6+§r\n3. 点击屏幕底部的§o编辑...§r\n4. 将 Y 位置的值更改为更高的值。
+
+mat.options.overridesection.pos=以玩家位置为条件的音效
+mat.options.overridesection.other=其他播放条件的音效
+mat.options.overridesection.nothing=无
+mat.options.openuserconfig=打开音乐包配置文件夹
+
+mat.true=开
+mat.false=关
+
+mat.title.expansions=MAtmos设置
+mat.title.advanced=MAtmos高级设置
+mat.title.devmode=§e调试模式已启用. 这可能会让MC变卡顿，运行缓慢.
+mat.title.devmode.display=§6调试模式: 屏幕显示
+mat.title.reloadhint=Tip: 音效损坏？重新启动 MAtmos，或重新加载资源包！ (F3+T)
+mat.title.conditionoverrides=音效播放条件编辑
+
+mat.zip.unsupported=此模组版本不支持ZIP文件内的音效模块。
+mat.zip.unzip=请解压缩资源包以便能够查看它们。
+
+mat.generator.done=文件生成于 %s
+mat.generator.plswait=更改将会在下次MAtmos音效资源包重新加载时应用.
+mat.folders.sounds=Create the sounds/ folder first.
+mat.folders.mc=Create the minecraft/ folder first.
+
+mat.expansion.noinfo=找不到 info.txt 文件。
+
+mat.resources.lag=§7%dms
+
+mat.resources.off.1=你的MAtmos音效资源包尚未启用！
+mat.resources.off.2=在资源包选项菜单中启用它以使MAtmos正常运行。
+
+mat.resources.none.1=你没有安装任何MAtmos音效资源包！
+mat.resources.none.2=将音效资源包放在.minecraft\resourcepacks.

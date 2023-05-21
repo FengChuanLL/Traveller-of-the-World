@@ -1,0 +1,194 @@
+# Configuration (+Keybindings)
+keybind.titles.openTitleSelection=打开称谓选择界面
+
+# GUI (+Container)
+gui.titles.cancel=关闭页面
+gui.titles.confirm=确认称谓
+gui.titles.random=随机装备称谓
+gui.titles.none=移除称谓
+gui.titles.purchase=购买称谓
+gui.titles.close=关闭页面
+gui.titles.titleselection.empty=解锁进度来获取称谓
+gui.titles.titlearchive.empty=你已经购买了所有能获取的称谓了
+
+# Commands
+commands.titles.usage=/titles <command>
+
+# Entities
+
+# Items
+itemGroup.titles=称谓
+item.titleArchive.name=称谓购买书
+item.archiveFragment.name=称谓碎片
+
+# Blocks (+Tile Entities)
+
+# Misc
+chat.title.add=%s has unlocked the title (%s)
+titles.modid=称谓
+
+# Advancements
+advancement.titles.root.desc=§f不要停止探索的脚步
+advancement.titles.spelunker=§f探索者
+advancement.titles.spelunker.desc=§f达到Y轴20层之下
+advancement.titles.chicken_chaser=§f追鸡者
+advancement.titles.chicken_chaser.desc=§f杀死一只鸡
+advancement.titles.captain=§f船长
+advancement.titles.captain.desc=§f进入一艘船
+advancement.titles.opulent=§f土豪
+advancement.titles.opulent.desc=§f完全使用钻石搭建一个信标
+advancement.titles.melon_lord=§fMWHAHAHA!
+advancement.titles.melon_lord.desc=§f将雕刻的南瓜装备在头部
+
+# Titles
+#titles
+title.titles.spelunker=§f探索者
+title.titles.chicken_chaser=§f追鸡者
+title.titles.captain=§f船长
+title.titles.opulent=§a土豪
+title.titles.melon_lord=§f南瓜杀手
+
+#story
+title.minecraft.story.root=§fthe Craftsman
+title.minecraft.story.mine_stone=§fthe Neanderthal
+title.minecraft.story.obtain_armor=§fthe Armorer
+title.minecraft.story.iron_tools=§fthe Miner
+title.minecraft.story.deflect_arrow=§f盾之勇者
+title.minecraft.story.enter_the_nether=§fthe Hellwalker
+title.minecraft.story.enchant_item=§f附魔师
+title.minecraft.story.cure_zombie_villager=§f僵尸医生
+title.minecraft.story.enter_the_end=§fthe Planeswalker
+
+#husbandry
+title.minecraft.husbandry.root=§fthe Farmer
+title.minecraft.husbandry.breed_an_animal=§fthe Grazier
+title.minecraft.husbandry.tame_an_animal=§fthe Pet Lover
+title.minecraft.husbandry.bred_all_animals=§fthe Matchmaker
+title.minecraft.husbandry.balanced_diet=§fthe Connoisseur
+title.minecraft.husbandry.break_diamond_hoe=§e终极奉献
+
+#adventure
+title.minecraft.adventure.root=§fthe Adventurer
+title.minecraft.adventure.kill_a_mob=§f怪物猎人
+title.minecraft.adventure.trade=§f交♂易员
+title.minecraft.adventure.shoot_arrow=§f红A
+title.minecraft.adventure.kill_all_mobs=§e追猎者
+title.minecraft.adventure.totem_of_undying=§d逾越死亡之人
+title.minecraft.adventure.summon_iron_golem=§fthe Samaritan
+title.minecraft.adventure.adventuring_time=§fthe Wayfarer
+title.minecraft.adventure.sniper_duel=§f狙击手
+
+#nether
+title.minecraft.nether.fast_travel=§fthe Portal Jumper
+title.minecraft.nether.return_to_sender=§fthe Mailman
+title.minecraft.nether.uneasy_alliance=§fthe Betrayer
+title.minecraft.nether.brew_potion=§f酿造师
+title.minecraft.nether.all_potions=§e飞狮流派
+title.minecraft.nether.all_effects=§e征服者
+title.minecraft.nether.create_full_beacon=§e信标工程师
+
+#end
+title.minecraft.end.kill_dragon=§e解放者
+title.minecraft.end.dragon_egg=§ethe Eggsnatcher
+title.minecraft.end.enter_end_gateway=§ethe Voidwalker
+title.minecraft.end.respawn_dragon=§d冥土追魂
+title.minecraft.end.dragon_breath=§dthe Hazmat
+title.minecraft.end.elytra=§d万户
+title.minecraft.end.levitate=the Suspended
+
+#tow
+title.triumph.tow.root=§a初启：五太流转
+title.triumph.tow.suishi=§a北京猿人
+title.triumph.tow.muban=§a鲁班
+title.triumph.tow.qiangguanghuoba=§a拥光者
+title.triumph.tow.yaogao=§a南丁格尔
+title.triumph.tow.neichen=§a不惧严寒，不畏烈火
+title.triumph.tow.wucanhe=§a饕餮
+title.triumph.tow.qumotai=§a巫师
+title.triumph.tow.cunchuzhuji=§a仓库管理带师
+title.triumph.tow.qianyinghe=§a背包客
+title.triumph.tow.diaolingfumotai=§a拒月者
+title.triumph.tow.chuansongshuijing=§a异界旅者
+title.triumph.tow.duanzaotai2=§a锻造者
+title.triumph.tow.silingzhishu=§a信徒
+title.triumph.tow.mengyan=§a不散梦魇
+title.triumph.tow.mijie=§a神秘访客
+title.triumph.tow.yuangucanhai=§a忆往昔峥嵘岁月
+title.triumph.tow.zuanshipingguo=§a伊甸园的守卫
+
+title.triumph.tow.duanzaotai=§b铁匠
+title.triumph.tow.haimang=§b海蟒杀手
+title.triumph.tow.tulong=§b屠龙勇者
+title.triumph.tow.meidusha=§b波尔修斯
+title.triumph.tow.longhu=§b灵魂饮者
+title.triumph.tow.ziyanwang=§b灭火之人
+title.triumph.tow.yuanguzhili=§b远古之力，所向披靡
+title.triumph.tow.guanchazhe=§b眼观六路，耳听八方
+title.triumph.tow.aiwaka=§b部落首领
+title.triumph.tow.moyingjitan=§b觉醒者
+title.triumph.tow.zuanshizhen=§b钢铁匠人
+title.triumph.tow.chuansongshuye=§b空间能力者
+title.triumph.tow.modishen=§d渎神之人
+title.triumph.tow.shuangxing=§d寒冬的死神
+title.triumph.tow.kuangbaozhanhun=§d战魂
+title.triumph.tow.baopozhanwang=§d爆炸即是艺术
+title.triumph.tow.anyingmojun=§d暗影之心
+title.triumph.tow.heibaishuangsha=§d黑白双子
+title.triumph.tow.jiaoyuenvwang=§d永夜抄
+title.triumph.tow.chongzhutai=§d神之馈赠
+title.triumph.tow.fenghou=§d养蜂人
+title.triumph.tow.kulouwang=§d不死者之王
+
+title.triumph.tow.xiajiehejinchu=§e神农氏
+title.triumph.tow.canhaiguoshen=§e半梦半醒
+title.triumph.tow.asuola=§e堕落者
+title.triumph.tow.chajialuosi=§e恐惧之影
+title.triumph.tow.zhahaer=§e时空操纵者
+title.triumph.tow.taiyangfengbao=§e后羿
+title.triumph.tow.temasaikete=§e原始之魂
+title.triumph.tow.yonghengsheshou=§e弓箭大师
+title.triumph.tow.laodaodekeni=§e老练
+title.triumph.tow.heijin=§e羽
+title.triumph.tow.juexingyanjing=§e天下无双
+title.triumph.tow.tairuisedun=§e过往灾祸
+title.triumph.tow.mikesi=§e地♂牢♂领♂主
+title.triumph.tow.weimosi=§e神说
+title.triumph.tow.satuosi=§e弑神之人
+title.triumph.tow.yueliangnvshen=§e罗刹之君
+title.triumph.tow.yuangu=§e四相之力
+title.triumph.tow.fennudiaozhui=§e暴君
+title.triumph.tow.huimiezhe=§e震慑灵魂之力
+title.triumph.tow.kaluosi=§e科学家
+title.triumph.tow.wagena=§e雷电法王
+title.triumph.tow.julongzhijie=§e天空之主
+
+title.triumph.weapon.louguanjian=§6白玉楼的庭师
+title.triumph.weapon.jinseliaoya=§6保皇党
+title.triumph.weapon.zuobanzhenxiang=§6天选之人
+
+
+title.twilightforest.progress_castle=§e凡者，天地之静
+title.twilightforest.fiery_set=§e踏火不焚，御火而行
+
+title.tombstone.tutorial.bone_crusher=§4亡灵杀手
+title.tombstone.tutorial.funeral_theft=§4盗墓贼
+title.tombstone.tutorial.revive_familiar=§4死者苏生
+
+
+title.tombstone.tutorial.tomb_raiding=§4古墓丽影
+title.tombstone.tombstone:tutorial.almost_unkillable=§4不死之身
+title.tombstone.tutorial.master_of_exorcism=§4带善人
+title.tombstone.tutorial.guardian_of_eternity=§4永恒的守护者
+title.tombstone.tutorial.genocide=§4带恶人
+
+
+title.tombstone.tutorial.versatility=§e死灵法师
+title.tombstone.tutorial.village_defender=§e村庄英雄
+title.tombstone.tutorial.soul_eater=§e噬魂者
+
+title.triumph.custom.qiankunriyue=§3日月已在我手
+title.triumph.custom.fengren=§3破局之人
+title.triumph.custom.shirihesang=§3谥号为桀
+title.triumph.custom.xingkongyuyan=§3虚数神使
+title.triumph.custom.qianshengtao=§3test
+title.triumph.custom.qianshengdajian=§3test

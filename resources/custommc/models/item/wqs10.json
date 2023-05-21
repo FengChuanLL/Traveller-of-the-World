@@ -1,0 +1,7 @@
+{
+    "parent": "spartanweaponry:item/saber_wood",
+	"textures": {
+		"layer0": "custommc:items/wqs10"
+	}
+}
+
