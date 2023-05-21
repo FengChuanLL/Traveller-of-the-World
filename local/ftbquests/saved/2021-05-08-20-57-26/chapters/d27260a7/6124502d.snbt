@@ -1,0 +1,92 @@
+{
+	x: 40.5d,
+	y: -7.5d,
+	dependencies: [
+		"1e432ec5",
+		"22cc7dbe"
+	],
+	tasks: [{
+		uid: "effcc9cd",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	},
+	{
+		uid: "db013dc7",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}]
+	},
+	{
+		uid: "170b0949",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}]
+	},
+	{
+		uid: "8400fc41",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}]
+	},
+	{
+		uid: "1304f4a8",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}]
+	},
+	{
+		uid: "b7ebcf94",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank 1 1"
+		}]
+	},
+	{
+		uid: "6abbf12b",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "52dcbba9",
+		type: "item",
+		item: "minecraft:brick",
+		count: 64
+	},
+	{
+		uid: "ec79ba7c",
+		type: "item",
+		item: "tconstruct:materials",
+		count: 64
+	},
+	{
+		uid: "e904671e",
+		type: "item",
+		item: "tconstruct:seared 1 3",
+		count: 64
+	},
+	{
+		uid: "33bb1824",
+		type: "item",
+		item: "tconstruct:seared_tank 1 1",
+		count: 9
+	},
+	{
+		uid: "8cafcc2d",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "4b47f440",
+		type: "item",
+		item: "tconstruct:seared_glass",
+		count: 64
+	}]
+}

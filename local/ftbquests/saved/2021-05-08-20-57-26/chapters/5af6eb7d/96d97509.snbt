@@ -1,0 +1,16 @@
+{
+	x: 11.0d,
+	y: 2.5d,
+	dependencies: [
+		"0719153d"
+	],
+	tasks: [{
+		uid: "d47b7d54",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:gatewaykey"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

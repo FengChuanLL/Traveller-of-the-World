@@ -1,0 +1,15 @@
+{
+	x: 15.5d,
+	y: 10.0d,
+	dependencies: [
+		"53da1e3d"
+	],
+	tasks: [{
+		uid: "3cb0d0b4",
+		type: "item",
+		items: [{
+			item: "minecraft:magma_cream"
+		}],
+		count: 8L
+	}]
+}

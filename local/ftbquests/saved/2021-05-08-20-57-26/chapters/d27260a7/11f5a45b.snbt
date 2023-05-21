@@ -1,0 +1,19 @@
+{
+	x: 18.5d,
+	y: 0.5d,
+	dependencies: [
+		"f95de8bc"
+	],
+	tasks: [{
+		uid: "e5e9698c",
+		type: "item",
+		items: [{
+			item: "minecraft:enchanting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "83676f4c",
+		type: "item",
+		item: "minecraft:blaze_powder"
+	}]
+}

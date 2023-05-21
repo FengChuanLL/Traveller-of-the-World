@@ -1,0 +1,25 @@
+{
+	x: 36.0d,
+	y: 0.5d,
+	dependencies: [
+		"72e89b94"
+	],
+	tasks: [{
+		uid: "5890c1a1",
+		type: "item",
+		items: [{
+			item: "culinaryconstruct:sandwich_station"
+		}]
+	}],
+	rewards: [{
+		uid: "620ee62b",
+		type: "item",
+		item: "minecraft:wheat",
+		count: 24
+	},
+	{
+		uid: "faa8878f",
+		type: "xp",
+		xp: 10
+	}]
+}

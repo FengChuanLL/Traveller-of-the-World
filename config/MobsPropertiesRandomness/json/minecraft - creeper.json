@@ -1,0 +1,45 @@
+{
+	"mob_id": "minecraft:creeper",
+	"potion_effects": [
+		{
+			"id": "minecraft:strength",
+			"amplifier": {
+				"min": 1,
+				"max": 3
+			},
+			"chance": {
+				"amount": 100,
+				"affected_by_difficulty": false,
+				"is_local_difficulty": false,
+				"multiplier": 1
+			},
+			"ambient": false,
+			"hide_particles": false,
+			"dimensions": [
+				0,
+				-1,
+				1
+			]
+		},
+		{
+			"id": "potioncore:archery",
+			"amplifier": {
+				"min": 1,
+				"max": 3
+			},
+			"chance": {
+				"amount": 100,
+				"affected_by_difficulty": false,
+				"is_local_difficulty": false,
+				"multiplier": 1
+			},
+			"ambient": false,
+			"hide_particles": false,
+			"dimensions": [
+				0,
+				-1,
+				1
+			]
+		}
+	]
+}

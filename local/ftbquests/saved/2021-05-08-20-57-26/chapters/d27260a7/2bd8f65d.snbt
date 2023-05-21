@@ -1,0 +1,30 @@
+{
+	title: "草（一种植物）",
+	x: 29.0d,
+	y: -12.0d,
+	description: "获得植物纤维",
+	text: [
+		"用粗制小刀割草获得的东西似乎能当线来使用……"
+	],
+	dependencies: [
+		"b8683a7e"
+	],
+	tasks: [{
+		uid: "4a732b95",
+		type: "item",
+		items: [{
+			item: "tinkersurvival:grass_fiber"
+		}]
+	}],
+	rewards: [{
+		uid: "cec02f84",
+		type: "item",
+		item: "tinkersurvival:grass_fiber",
+		count: 5
+	},
+	{
+		uid: "a8a5d7b8",
+		type: "xp",
+		xp: 100
+	}]
+}

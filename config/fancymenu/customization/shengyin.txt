@@ -1,0 +1,142 @@
+type = menu
+
+customization-meta {
+  identifier = ichttt.mods.moresoundconfig.gui.GuiSound
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345220%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=505220%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=505220%
+  width = 150
+  action = resizebutton
+  height = 21
+}
+
+customization {
+  identifier = %id=345286%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = -68
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -44
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = top-centered
+  x = -155
+  action = movebutton
+  y = 28
+}
+
+customization {
+  identifier = %id=505198%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 28
+}
+
+customization {
+  identifier = %id=345198%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=345264%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 52
+}
+
+customization {
+  identifier = %id=505264%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = -68
+}
+
+customization {
+  identifier = %id=425308%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = 52
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=345176%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = -44
+}
+
+customization {
+  identifier = %id=505242%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = -44
+}
+
+customization {
+  identifier = %id=505176%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=345242%
+  orientation = mid-centered
+  x = -160
+  action = movebutton
+  y = 28
+}
+

@@ -1,0 +1,20 @@
+{
+	x: -6.5d,
+	y: -9.5d,
+	dependencies: [
+		"cd894a38"
+	],
+	tasks: [{
+		uid: "a02ff3a4",
+		type: "item",
+		items: [{
+			item: "storagenetwork:request"
+		}]
+	}],
+	rewards: [{
+		uid: "28707efe",
+		type: "item",
+		item: "ironchest:iron_chest",
+		count: 8
+	}]
+}

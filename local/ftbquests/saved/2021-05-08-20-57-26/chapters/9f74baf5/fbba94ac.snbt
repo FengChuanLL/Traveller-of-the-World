@@ -1,0 +1,17 @@
+{
+	title: "找到绿洲",
+	x: 4.5d,
+	y: 2.0d,
+	text: [
+		"地图上一抹绿，很显眼"
+	],
+	dependencies: [
+		"2dac3b31"
+	],
+	tasks: [{
+		uid: "0953a0b3",
+		type: "advancement",
+		advancement: "atum:core/ahope",
+		criterion: ""
+	}]
+}

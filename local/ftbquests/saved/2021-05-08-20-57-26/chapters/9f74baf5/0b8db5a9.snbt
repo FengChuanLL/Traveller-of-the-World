@@ -1,0 +1,17 @@
+{
+	x: 9.5d,
+	y: 0.5d,
+	text: [
+		"椰枣长在棕榈树的树叶下方"
+	],
+	dependencies: [
+		"a678d77d"
+	],
+	tasks: [{
+		uid: "f9471b14",
+		type: "item",
+		items: [{
+			item: "atum:date"
+		}]
+	}]
+}

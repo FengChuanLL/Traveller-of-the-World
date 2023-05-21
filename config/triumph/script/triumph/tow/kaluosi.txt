@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<divinerpg:karos_lump>)
+
+//Set title String
+setTitle("疯狂的科学家")
+
+//Set description String
+setDescription("击败卡洛斯")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/fenghou")
+
+//Set the position
+setPos(1625,220)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "killed_spider" with the trigger type "minecraft:player_killed_entity". This function returns the criteria as an object
+criteria = addCriteria("killed_kaluosi", "minecraft:player_killed_entity")
+
+//Sets the required entity type for the criteria. This is the entity that the player must kill.
+criteria.setEntityType("divinerpg:karos")

@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<bountifulbaubles:reforger>)
+
+//Set title String
+setTitle("力量洗礼")
+
+//Set description String
+setDescription("制作一个重铸台")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/moyinglong")
+
+//Set the position
+setPos(1225,95)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("chongzhitai", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<bountifulbaubles:reforger>)

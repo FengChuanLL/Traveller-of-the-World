@@ -1,0 +1,41 @@
+{
+	"mob_id": "iceandfire:icedragon",
+	"potion_effects": [
+		{
+			"id": "minecraft:strength",
+			"amplifier": {
+				"min": 2,
+				"max": 4
+			},
+			"chance": {
+				"amount": 100,
+				"affected_by_difficulty": false,
+				"is_local_difficulty": false,
+				"multiplier": 1
+			},
+			"ambient": false,
+			"hide_particles": false,
+			"dimensions": [
+				0
+			]
+		},
+		{
+			"id": "potioncore:archery",
+			"amplifier": {
+				"min": 2,
+				"max": 4
+			},
+			"chance": {
+				"amount": 100,
+				"affected_by_difficulty": false,
+				"is_local_difficulty": false,
+				"multiplier": 1
+			},
+			"ambient": false,
+			"hide_particles": false,
+			"dimensions": [
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	x: 24.0d,
+	y: 2.0d,
+	dependencies: [
+		"aaad6235"
+	],
+	tasks: [{
+		uid: "563911c4",
+		type: "item",
+		items: [{
+			item: "aether_legacy:sun_altar"
+		}]
+	},
+	{
+		uid: "dd2a0df9",
+		type: "item",
+		items: [{
+			item: "aether_legacy:life_shard"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

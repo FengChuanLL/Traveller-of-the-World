@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -4.5d,
+	dependencies: [
+		"d22c9672"
+	],
+	tasks: [{
+		uid: "7869fa29",
+		type: "item",
+		items: [{
+			item: "minecraft:milk_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

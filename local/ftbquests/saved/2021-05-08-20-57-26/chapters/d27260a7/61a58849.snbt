@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: -12.5d,
+	dependencies: [
+		"cd894a38"
+	],
+	tasks: [{
+		uid: "3f7d96d5",
+		type: "item",
+		items: [{
+			item: "storagenetwork:kabel"
+		}]
+	}],
+	rewards: [{
+		uid: "1ad4a2f0",
+		type: "xp",
+		xp: 100
+	}]
+}

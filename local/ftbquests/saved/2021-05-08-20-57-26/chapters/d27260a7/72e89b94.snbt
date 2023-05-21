@@ -1,0 +1,46 @@
+{
+	title: "原木！",
+	x: 33.0d,
+	y: -5.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"41abbb5a"
+	],
+	tasks: [{
+		uid: "39cf1fe0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "ff39c80e",
+		type: "item",
+		item: "minecraft:log",
+		count: 32
+	},
+	{
+		uid: "7886f667",
+		type: "item",
+		item: "tinkersurvival:crude_saw"
+	},
+	{
+		uid: "4f7d97e3",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

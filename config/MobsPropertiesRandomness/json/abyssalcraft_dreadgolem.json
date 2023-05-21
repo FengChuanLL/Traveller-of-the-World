@@ -1,0 +1,67 @@
+{
+	"mob_id": "abyssalcraft:dreadgolem",
+	"potion_effects": [
+		{
+			"id": "minecraft:strength",
+			"amplifier": {
+				"min": 20,
+				"max": 21
+			},
+			"chance": {
+				"amount": 100,
+				"affected_by_difficulty": false,
+				"is_local_difficulty": false,
+				"multiplier": 1
+			},
+			"ambient": false,
+			"hide_particles": false,
+			"dimensions": [
+				992,
+				993,
+				52,
+				997,
+				51,
+				1000,
+				998,
+				1001,
+				50,
+				7,
+				995,
+				991,
+				424,
+				996,
+				994,
+				53
+			]
+		}
+	],
+	"attributes": [
+		{
+			"id": "generic.maxHealth",
+			"modifier": {
+				"min": 240,
+				"max": 240
+			},
+			"is_flat": true,
+			"affected_by_difficulty": false,
+			"dimensions": [
+				992,
+				993,
+				52,
+				997,
+				51,
+				1000,
+				998,
+				1001,
+				50,
+				7,
+				995,
+				991,
+				424,
+				996,
+				994,
+				53
+			]
+		}
+	]
+}

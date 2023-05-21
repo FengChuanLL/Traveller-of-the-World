@@ -1,0 +1,14 @@
+{
+	x: 13.5d,
+	y: 13.5d,
+	dependencies: [
+		"6ceb2ab7"
+	],
+	tasks: [{
+		uid: "0d1aa5e6",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 48"
+		}]
+	}]
+}

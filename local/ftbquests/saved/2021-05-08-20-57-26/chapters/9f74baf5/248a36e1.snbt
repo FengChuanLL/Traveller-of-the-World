@@ -1,0 +1,45 @@
+{
+	title: "传送门搭建",
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"底部为5*5的砂岩，25个",
+		"第二层为空心5*5的砂岩，16个",
+		"然后将四个边角，每个角分别向上搭两格砂岩，8个",
+		"往中间倒一桶水",
+		"将圣甲虫丢进去"
+	],
+	tasks: [{
+		uid: "a73c41c6",
+		type: "item",
+		items: [{
+			item: "minecraft:sandstone"
+		}],
+		count: 25L
+	},
+	{
+		uid: "cecbfded",
+		type: "item",
+		items: [{
+			item: "minecraft:sandstone"
+		}],
+		count: 16L
+	},
+	{
+		uid: "b93c6e0f",
+		type: "item",
+		items: [{
+			item: "minecraft:sandstone"
+		}],
+		count: 8L
+	},
+	{
+		uid: "e11358a0",
+		type: "item",
+		items: [{
+			item: "minecraft:water_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

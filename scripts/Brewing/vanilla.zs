@@ -1,0 +1,2 @@
+brewing.removeRecipe(<minecraft:potion>.withTag({Potion: "minecraft:water"}), <minecraft:glowstone_dust>);
+brewing.addBrew(<minecraft:potion>.withTag({Potion: "minecraft:water"}), <iceandfire:dragonbone>, <minecraft:potion>.withTag({Potion: "minecraft:thick"}));

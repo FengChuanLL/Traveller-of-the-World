@@ -1,0 +1,30 @@
+{
+	title: "我为什么要挖这个？",
+	x: 22.0d,
+	y: -12.0d,
+	description: "获得燧石",
+	text: [
+		"这小东西有大用途，没想到吧？"
+	],
+	dependencies: [
+		"debc6077"
+	],
+	tasks: [{
+		uid: "254d93c7",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}],
+	rewards: [{
+		uid: "e513655f",
+		type: "item",
+		item: "minecraft:flint",
+		count: 3
+	},
+	{
+		uid: "666e4727",
+		type: "xp",
+		xp: 50
+	}]
+}

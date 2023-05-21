@@ -1,0 +1,31 @@
+{
+	x: -9.5d,
+	y: -1.0d,
+	dependencies: [
+		"889c9843"
+	],
+	tasks: [{
+		uid: "11e77a2a",
+		type: "item",
+		items: [{
+			item: "warpbook:bookcloner"
+		}]
+	}],
+	rewards: [{
+		uid: "4368c429",
+		type: "item",
+		item: "minecraft:paper",
+		count: 32
+	},
+	{
+		uid: "5051572d",
+		type: "item",
+		item: "warpbook:warpcluster",
+		count: 4
+	},
+	{
+		uid: "5202c71e",
+		type: "xp",
+		xp: 100
+	}]
+}

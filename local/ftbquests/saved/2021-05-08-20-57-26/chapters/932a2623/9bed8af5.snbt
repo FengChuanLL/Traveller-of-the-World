@@ -1,0 +1,49 @@
+{
+	x: 13.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "3d0425c8",
+		type: "item",
+		items: [{
+			item: "erebus:exoskeleton_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cfd8e700",
+		type: "item",
+		items: [{
+			item: "erebus:exoskeleton_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ab39c02a",
+		type: "item",
+		items: [{
+			item: "erebus:exoskeleton_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "35bcc7e2",
+		type: "item",
+		items: [{
+			item: "erebus:exoskeleton_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f9b26bb8",
+		type: "item",
+		items: [{
+			item: "erebus:exoskeleton_shield"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

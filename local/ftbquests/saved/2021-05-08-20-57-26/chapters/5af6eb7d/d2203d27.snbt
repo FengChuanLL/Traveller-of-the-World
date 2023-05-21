@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 9.0d,
+	dependencies: [
+		"798e01cd"
+	],
+	tasks: [{
+		uid: "22ec4618",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:eoa"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

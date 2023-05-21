@@ -1,0 +1,135 @@
+//Sakurazhongzi
+val oreSakurazhongzi = <ore:Sakurazhongzi>;
+oreSakurazhongzi.addItems(
+    [
+    <sakura:red_bean>,
+    <sakura:eggplant_seeds>,
+    <sakura:cabbage_seeds>,
+    <sakura:tomato_seeds>,
+    <sakura:onion_seeds>,
+    <sakura:rice_seeds>,
+    <sakura:materials:23>,
+    <sakura:radish_seeds>,
+    <sakura:rapeseeds>,
+    <sakura:materials:18>,
+    <sakura:materials:19>,
+    <sakura:materials:20>,
+    <sakura:materials:37>,
+    <sakura:buckwheat>,
+    <sakura:materials:45>,
+    ]
+);
+
+//Putaojia
+val orePutaojia = <ore:Putaojia>;
+orePutaojia.addItems(
+    [
+    <sakura:grape_splint_stand>,
+    <sakura:grape_splint>
+    ]
+);
+
+//Sakurajiu
+val oreSakurajiu = <ore:Sakurajiu>;
+oreSakurajiu.addItems(
+    [
+    <sakura:cocktail>,    
+    <sakura:cocktail:1>,
+    <sakura:cocktail:2>,
+    <sakura:cocktail:3>,
+    <sakura:cocktail:4>,
+    <sakura:cocktail:5>,
+    <sakura:cocktail:6>,
+    <sakura:cocktail:7>,
+    <sakura:cocktail:8>,
+    <sakura:cocktail:9>,
+    <sakura:cocktail:10>,
+    <sakura:cocktail:11>,
+    <sakura:cocktail:12>,
+    <sakura:cocktail:13>,
+    <sakura:cocktail:14>,
+    <sakura:cocktail:15>,
+    <sakura:cocktail:16>,
+    <sakura:cocktail:17>,
+    <sakura:cocktail:18>,
+    <sakura:cocktail:19>,
+    <sakura:cocktail:20>,
+    <sakura:cocktail:21>,
+    <sakura:cocktail:22>,
+    <sakura:cocktail:23>,
+    <sakura:cocktail:24>,
+    <sakura:cocktail:25>,
+    <sakura:cocktail:26>,
+    <sakura:cocktail:27>,
+    <sakura:cocktail:28>,
+    <sakura:cocktail:29>,
+    <sakura:cocktail:30>,
+    <sakura:cocktail:31>,
+    <sakura:cocktail:32>,
+    <sakura:cocktail:33>,
+    <sakura:cocktail:34>,
+    <sakura:cocktail:35>,
+    <sakura:cocktail:36>,
+    <sakura:cocktail:37>,
+    <sakura:cocktail:38>,
+    <sakura:cocktail:39>,
+    <sakura:cocktail:40>,
+    <sakura:cocktail:41>,
+    <sakura:alcoholic>,
+    <sakura:alcoholic:1>,
+    <sakura:alcoholic:2>,
+    <sakura:alcoholic:3>,
+    <sakura:alcoholic:4>,
+    <sakura:alcoholic:5>,
+    <sakura:alcoholic:6>,
+    <sakura:alcoholic:7>,
+    <sakura:alcoholic:8>,
+    <sakura:alcoholic:9>,
+    <sakura:alcoholic:10>,
+    <sakura:alcoholic:11>,
+    <sakura:alcoholic:12>,
+    <sakura:alcoholic:13>,
+    <sakura:alcoholic:14>,
+    <sakura:cocktail>,
+    <sakura:cocktail:1>,
+    <sakura:cocktail:2>,
+    <sakura:cocktail:3>,
+    <sakura:cocktail:4>,
+    <sakura:cocktail:5>,
+    <sakura:cocktail:6>,
+    <sakura:cocktail:7>,
+    <sakura:cocktail:8>,
+    <sakura:cocktail:9>,
+    <sakura:cocktail:10>,
+    <sakura:cocktail:11>,
+    <sakura:cocktail:12>,
+    <sakura:cocktail:13>,
+    <sakura:cocktail:14>,
+    <sakura:cocktail:15>,
+    <sakura:cocktail:16>,
+    <sakura:cocktail:17>,
+    <sakura:cocktail:18>,
+    <sakura:cocktail:19>,
+    <sakura:cocktail:20>   
+    ]
+);
+
+//Sakuratea
+val oreSakuratea = <ore:Sakuratea>;
+oreSakuratea.addItems(
+    [
+    <sakura:tea>,
+    <sakura:tea:1>,
+    <sakura:tea:2>,
+    <sakura:tea:3>,
+    <sakura:tea:4>,
+    <sakura:tea:5>,
+    <sakura:tea:6>,
+    <sakura:tea:7>,
+    <sakura:tea:8>,
+    <sakura:tea:9>,
+    <sakura:tea:10>,
+    <sakura:tea:11>,
+    <sakura:tea:12>
+    ]
+);

@@ -1,0 +1,26 @@
+{
+	title: "贵的东西的优点就是贵",
+	x: 15.5d,
+	y: -12.0d,
+	description: "然而并没有什么卵用",
+	dependencies: [
+		"0b8cba4f"
+	],
+	tasks: [{
+		uid: "749f685c",
+		type: "item",
+		items: [{
+			item: "twilightforest:ore_map_empty"
+		}]
+	}],
+	rewards: [{
+		uid: "ab0eab94",
+		type: "item",
+		item: "minecraft:diamond"
+	},
+	{
+		uid: "42999a8a",
+		type: "item",
+		item: "minecraft:iron_ingot"
+	}]
+}

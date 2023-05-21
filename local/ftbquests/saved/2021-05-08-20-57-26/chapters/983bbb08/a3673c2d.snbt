@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: 0.0d,
+	dependencies: [
+		"c2be415c"
+	],
+	tasks: [{
+		uid: "8bfc19b9",
+		type: "item",
+		items: [{
+			item: "aether_legacy:regeneration_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

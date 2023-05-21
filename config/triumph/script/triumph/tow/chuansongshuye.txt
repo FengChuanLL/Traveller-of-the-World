@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<warpbook:unboundwarppage>)
+
+//Set title String
+setTitle("我心所指，吾身即行")
+
+//Set description String
+setDescription("制作一页传送书页")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/chuansongshuijing")
+
+//Set the position
+setPos(675,-5)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("chuansongshuye", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<warpbook:unboundwarppage>)

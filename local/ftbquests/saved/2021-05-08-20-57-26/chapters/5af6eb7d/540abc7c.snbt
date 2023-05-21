@@ -1,0 +1,60 @@
+{
+	x: -5.0d,
+	y: 2.5d,
+	text: [
+		"黑暗群系或河边的修格斯巢穴找到"
+	],
+	dependencies: [
+		"d9cdb07a"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "c54f379e",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 3"
+		}]
+	},
+	{
+		uid: "2c63e6af",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 1"
+		}]
+	},
+	{
+		uid: "b0a4854d",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 2"
+		}]
+	},
+	{
+		uid: "467d5518",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue"
+		}]
+	},
+	{
+		uid: "3cb997a1",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 4"
+		}]
+	},
+	{
+		uid: "ad10e0b6",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 5"
+		}]
+	},
+	{
+		uid: "a7ce2796",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue 1 6"
+		}]
+	}]
+}

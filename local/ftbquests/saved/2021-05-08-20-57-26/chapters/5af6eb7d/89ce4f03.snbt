@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: 17.5d,
+	dependencies: [
+		"cd2d0985",
+		"28a29ab7"
+	],
+	tasks: [{
+		uid: "30ca6328",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadaltarbottom"
+		}]
+	}]
+}

@@ -1,0 +1,2 @@
+recipes.addShaped(<chococraft:chocobo_saddle:2>, [[<minecraft:leather>, <minecraft:leather>, <minecraft:leather>], [<ironchest:iron_chest:1>, <chococraft:chocobo_saddle:1>, <ironchest:iron_chest:1>], [<ore:itemTieStrong>, null, <ore:itemTieStrong>]]);
+recipes.addShaped(<chococraft:chocobo_saddle:1>, [[<minecraft:leather>, <minecraft:leather>, <minecraft:leather>], [<ironchest:iron_chest>, <chococraft:chocobo_saddle>, <ironchest:iron_chest>], [<ore:itemTieStrong>, null, <ore:itemTieStrong>]]);

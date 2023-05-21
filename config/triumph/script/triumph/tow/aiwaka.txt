@@ -1,0 +1,28 @@
+
+//Set icon item
+setIcon(<divinerpg:ayeraco_statue_red>)
+
+//Set title String
+setTitle("低配葫芦娃")
+
+//Set description String
+setDescription("击败所有的艾瓦卡")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/moyinglong")
+
+//Set the position
+setPos(575,145)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "killed_spider" with the trigger type "minecraft:player_killed_entity". This function returns the criteria as an object
+criteria = addCriteria("killed_aiwaka", "minecraft:player_killed_entity")
+
+//Sets the required entity type for the criteria. This is the entity that the player must kill.
+criteria.setEntityType("divinerpg:ayeraco_green")
+criteria.setEntityType("divinerpg:ayeraco_blue")
+criteria.setEntityType("divinerpg:ayeraco_purple")
+criteria.setEntityType("divinerpg:ayeraco_red")
+criteria.setEntityType("divinerpg:ayeraco_yellow")

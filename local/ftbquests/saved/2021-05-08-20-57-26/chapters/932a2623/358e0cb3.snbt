@@ -1,0 +1,25 @@
+{
+	x: -3.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "4fb4ba0b",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}]
+	},
+	{
+		uid: "0e4547e9",
+		type: "item",
+		items: [{
+			item: "minecraft:emerald"
+		}]
+	},
+	{
+		uid: "e2a0c50c",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "不要小看我啊kora",
+	x: 27.0d,
+	y: -12.0d,
+	description: "获得粗制小刀",
+	text: [
+		"虽然它没你想象的那么锋利，但是拿去割草（左键）还是挺有用的……"
+	],
+	dependencies: [
+		"a83d9273",
+		"b60b5470"
+	],
+	tasks: [{
+		uid: "f524af13",
+		type: "item",
+		items: [{
+			item: "tinkersurvival:crude_knife"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c9d7bfa2",
+		type: "item",
+		item: "tinkersurvival:crude_knife"
+	},
+	{
+		uid: "e54f773c",
+		type: "xp",
+		xp: 100
+	}]
+}

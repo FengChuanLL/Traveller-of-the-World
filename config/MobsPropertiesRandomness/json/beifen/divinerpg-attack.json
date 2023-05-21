@@ -1,0 +1,29 @@
+{
+	"mob_id": "divinerpg:*",
+	"potion_effects": [
+		{
+			"id": "minecraft:strength",
+			"amplifier": {
+				"min": 60,
+				"max": 80
+			},
+			"chance": {
+				"amount": 100,
+				"affected_by_difficulty": false,
+				"is_local_difficulty": false,
+				"multiplier": 1
+			},
+			"ambient": false,
+			"hide_particles": false,
+			"dimensions": [
+				991,
+				992,
+				993,
+				994,
+				995,
+				996,
+				998
+			]
+		}
+	]
+}

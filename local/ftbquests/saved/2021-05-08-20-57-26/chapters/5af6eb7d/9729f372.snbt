@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 0.5d,
+	dependencies: [
+		"c198eaa9"
+	],
+	tasks: [{
+		uid: "8790752c",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:oblivionshard"
+		}]
+	}]
+}

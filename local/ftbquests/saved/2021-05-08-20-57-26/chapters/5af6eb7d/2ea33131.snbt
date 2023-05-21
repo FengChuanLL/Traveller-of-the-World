@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: 14.5d,
+	text: [
+		"进入恐惧之地任意一个山脉中（挖进去也行），向下挖到Y=40的地方时放下祭坛底部跟顶部，右键祭坛进入boss房"
+	],
+	dependencies: [
+		"89ce4f03"
+	],
+	tasks: [{
+		uid: "5966d798",
+		type: "kill",
+		entity: "abyssalcraft:chagaroth",
+		value: 1L
+	}]
+}

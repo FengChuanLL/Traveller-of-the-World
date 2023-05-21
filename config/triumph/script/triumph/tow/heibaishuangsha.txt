@@ -1,0 +1,25 @@
+
+//Set icon item
+setIcon(<legendera:fatal_decay>)
+
+//Set title String
+setTitle("双生暗影")
+
+//Set description String
+setDescription("击败黑白双煞")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/anyingmojun")
+
+//Set the position
+setPos(775,245)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "killed_spider" with the trigger type "minecraft:player_killed_entity". This function returns the criteria as an object
+criteria = addCriteria("killed_heibaishuangsha", "minecraft:player_killed_entity")
+
+//Sets the required entity type for the criteria. This is the entity that the player must kill.
+criteria.setEntityType("legendera:double_ghost_black")
+criteria.setEntityType("legendera:double_ghost_white")

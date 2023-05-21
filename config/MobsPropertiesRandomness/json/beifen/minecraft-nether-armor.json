@@ -1,0 +1,17 @@
+{
+	"mob_id": "minecraft:*",
+	"attributes": [
+		{
+			"id": "generic.armor",
+			"modifier": {
+				"min": 15,
+				"max": 30
+			},
+			"is_flat": true,
+			"affected_by_difficulty": false,
+			"dimensions": [
+				-1
+			]
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	x: 13.0d,
+	y: 0.5d,
+	dependencies: [
+		"0b8db5a9"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "de5a4675",
+		type: "item",
+		items: [{
+			item: "atum:glistering_date"
+		}]
+	},
+	{
+		uid: "be66e846",
+		type: "item",
+		items: [{
+			item: "atum:golden_date"
+		}]
+	},
+	{
+		uid: "bab39b3c",
+		type: "item",
+		items: [{
+			item: "atum:golden_date_enchanted"
+		}]
+	}]
+}

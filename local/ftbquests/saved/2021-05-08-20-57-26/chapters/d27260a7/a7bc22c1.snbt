@@ -1,0 +1,23 @@
+{
+	title: "强力的连锁反应，不仅是挖矿！",
+	icon: "twilightforest:fiery_pickaxe",
+	x: 7.5d,
+	y: -11.0d,
+	text: [
+		"更强力的连锁效应！",
+		"在挖掘任何方块，甚至包括火把时，按住ESC键下方的、1左侧的`键不松手，即可实现连锁挖掘、连锁破坏，非常强力！"
+	],
+	dependencies: [
+		"3ae62e52"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "897ac33a",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "00677dd3",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

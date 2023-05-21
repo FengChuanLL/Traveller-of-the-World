@@ -1,0 +1,23 @@
+{
+	x: -5.0d,
+	y: 0.5d,
+	text: [
+		"液态反物质是一种能在珊瑚侵染沼泽地下、反物质牛身上或奥穆索城市中的铁匠铺找到的一种液体。"
+	],
+	dependencies: [
+		"d9cdb07a"
+	],
+	tasks: [{
+		uid: "0d0bbda0",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "liquidantimatter",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

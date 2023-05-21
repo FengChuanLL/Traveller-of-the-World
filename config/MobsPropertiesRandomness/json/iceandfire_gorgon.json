@@ -1,0 +1,17 @@
+{
+	"mob_id": "iceandfire:gorgon",
+	"attributes": [
+		{
+			"id": "generic.maxHealth",
+			"modifier": {
+				"min": 200,
+				"max": 200
+			},
+			"is_flat": true,
+			"affected_by_difficulty": false,
+			"dimensions": [
+				0
+			]
+		}
+	]
+}

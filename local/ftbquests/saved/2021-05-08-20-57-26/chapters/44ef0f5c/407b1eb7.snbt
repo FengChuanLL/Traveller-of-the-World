@@ -1,0 +1,10 @@
+{
+	x: 36.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "cfbc2ee6",
+		type: "advancement",
+		advancement: "twilightforest:alt/entities/hydra",
+		criterion: ""
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 13.0d,
+	y: 12.0d,
+	dependencies: [
+		"a5bf9a81"
+	],
+	tasks: [{
+		uid: "e16ea88c",
+		type: "item",
+		items: [{
+			item: "aether_legacy:incubator"
+		}]
+	}]
+}

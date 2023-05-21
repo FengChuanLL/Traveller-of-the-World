@@ -1,0 +1,49 @@
+{
+	title: "鸟枪换炮",
+	x: -14.0d,
+	y: -9.5d,
+	text: [
+		"存储空间更大的箱子以及燃烧速度和效率更高的熔炉!"
+	],
+	dependencies: [
+		"4581acc8"
+	],
+	tasks: [{
+		uid: "f7d5f6c8",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest"
+		}]
+	},
+	{
+		uid: "7ff722ec",
+		type: "item",
+		items: [{
+			item: "ironfurnaces:iron_furnace_idle"
+		}]
+	}],
+	rewards: [{
+		uid: "3528b63b",
+		type: "item",
+		item: "ironchest:wood_iron_chest_upgrade",
+		count: 2
+	},
+	{
+		uid: "38e764ad",
+		type: "item",
+		item: "ironchest:iron_gold_chest_upgrade",
+		count: 2
+	},
+	{
+		uid: "005c3df0",
+		type: "item",
+		item: "ironchest:gold_diamond_chest_upgrade",
+		count: 2
+	},
+	{
+		uid: "25454fd8",
+		type: "item",
+		item: "ironchest:diamond_crystal_chest_upgrade",
+		count: 2
+	}]
+}

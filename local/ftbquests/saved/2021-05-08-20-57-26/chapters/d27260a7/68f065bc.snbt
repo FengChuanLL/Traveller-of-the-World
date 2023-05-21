@@ -1,0 +1,16 @@
+{
+	title: "更方便的地图",
+	x: 7.5d,
+	y: -20.5d,
+	text: [
+		"按J即可打开旅行地图；按B可标记当前位置"
+	],
+	dependencies: [
+		"c53218e6"
+	],
+	tasks: [{
+		uid: "097608cc",
+		type: "checkmark",
+		icon: "twilightforest:ore_map_empty"
+	}]
+}

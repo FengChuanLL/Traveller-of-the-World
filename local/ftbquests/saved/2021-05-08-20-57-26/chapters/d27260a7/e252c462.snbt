@@ -1,0 +1,18 @@
+{
+	title: "更强力的附魔台！",
+	x: 18.5d,
+	y: 2.5d,
+	text: [
+		"但不能与匠魂系列配合"
+	],
+	dependencies: [
+		"11f5a45b"
+	],
+	tasks: [{
+		uid: "6154a711",
+		type: "item",
+		items: [{
+			item: "eplus:advanced_table"
+		}]
+	}]
+}

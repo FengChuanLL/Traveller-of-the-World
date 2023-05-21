@@ -1,0 +1,17 @@
+{
+	title: "深渊荒芜之地",
+	x: 11.0d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"96d97509"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "6c8dfdbb",
+		type: "dimension",
+		dim: 50
+	}]
+}

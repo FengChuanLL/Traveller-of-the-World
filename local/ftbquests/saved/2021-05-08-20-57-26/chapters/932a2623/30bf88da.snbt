@@ -1,0 +1,21 @@
+{
+	x: 20.5d,
+	y: 9.0d,
+	dependencies: [
+		"ca8bfc3a"
+	],
+	tasks: [{
+		uid: "78f981fb",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 64"
+		}]
+	},
+	{
+		uid: "d438acab",
+		type: "item",
+		items: [{
+			item: "erebus:antlion_egg"
+		}]
+	}]
+}

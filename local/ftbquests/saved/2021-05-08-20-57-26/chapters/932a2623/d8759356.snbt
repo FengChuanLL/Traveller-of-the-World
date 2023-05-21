@@ -1,0 +1,10 @@
+{
+	x: 13.5d,
+	y: 16.0d,
+	tasks: [{
+		uid: "46036e5b",
+		type: "kill",
+		entity: "erebus:erebus.bot_fly",
+		value: 1L
+	}]
+}

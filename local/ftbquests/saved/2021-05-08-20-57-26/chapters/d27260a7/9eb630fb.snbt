@@ -1,0 +1,22 @@
+{
+	x: -27.5d,
+	y: -9.5d,
+	dependencies: [
+		"caabfcdb"
+	],
+	tasks: [{
+		uid: "90c27c69",
+		type: "item",
+		items: [{
+			item: "minecraft:elytra"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "affccca3",
+		type: "item",
+		item: "minecraft:elytra",
+		count: 2
+	}]
+}

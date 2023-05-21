@@ -1,0 +1,65 @@
+{
+	x: 36.0d,
+	y: 2.5d,
+	dependencies: [
+		"6885ad06"
+	],
+	tasks: [{
+		uid: "23ddec91",
+		type: "item",
+		items: [{
+			id: "culinaryconstruct:sandwich",
+			tag: {
+				Size: 5,
+				Saturation: 0.72f,
+				Ingredients: {
+					Items: [{
+						Slot: 0b,
+						id: "minecraft:bread",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 1b,
+						id: "minecraft:bread",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 2b,
+						id: "minecraft:bread",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 3b,
+						id: "minecraft:bread",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 4b,
+						id: "minecraft:bread",
+						Count: 1b,
+						Damage: 0s
+					},
+					{
+						Slot: 5b,
+						id: "minecraft:bread",
+						Count: 1b,
+						Damage: 0s
+					}]
+				},
+				Bonus: -2,
+				Depth: 0,
+				Food: 9
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "e5fdf935",
+		type: "item",
+		item: "minecraft:bread",
+		count: 16
+	}]
+}

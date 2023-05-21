@@ -1,0 +1,24 @@
+{
+	x: 18.5d,
+	y: -10.0d,
+	dependencies: [
+		"debc6077"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "68ec3799",
+		type: "item",
+		items: [{
+			item: "toughasnails:canteen"
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "3d3fdc89",
+		type: "item",
+		items: [{
+			item: "minecraft:glass_bottle"
+		}],
+		ignore_nbt: 2b
+	}]
+}

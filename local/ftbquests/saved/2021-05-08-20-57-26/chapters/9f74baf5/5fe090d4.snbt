@@ -1,0 +1,13 @@
+{
+	x: 12.5d,
+	y: -7.5d,
+	dependencies: [
+		"42cca725"
+	],
+	tasks: [{
+		uid: "35900332",
+		type: "advancement",
+		advancement: "atum:core/justlikenew",
+		criterion: ""
+	}]
+}

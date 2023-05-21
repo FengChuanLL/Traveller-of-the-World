@@ -1,0 +1,17 @@
+{
+	x: 17.0d,
+	y: 2.0d,
+	text: [
+		"这个地牢通常只会有BOSS房间，BOSS开启方法为与boss对话，将boss所有的话听完，出现血条即为开始boss战",
+		"boss免疫一切近战远程伤害，必须用近战攻击它丢出的白色物体（冰结球）弹到boss身上才有伤害，每次攻击boss之后会刷出一个小型boss，可以用近战击杀"
+	],
+	dependencies: [
+		"e0df0159"
+	],
+	tasks: [{
+		uid: "018449fa",
+		type: "kill",
+		entity: "aether_legacy:sun_spirit",
+		value: 1L
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	x: -6.5d,
+	y: 1.0d,
+	dependencies: [
+		"889c9843"
+	],
+	tasks: [{
+		uid: "f3d99c06",
+		type: "item",
+		items: [{
+			item: "warpbook:teleporter"
+		}]
+	}],
+	rewards: [{
+		uid: "6a7efa8e",
+		type: "item",
+		item: "warpbook:unboundwarppotion"
+	},
+	{
+		uid: "53b597fd",
+		type: "item",
+		item: "warpbook:unboundwarppotion"
+	},
+	{
+		uid: "84745a2d",
+		type: "item",
+		item: "warpbook:unboundwarppotion"
+	},
+	{
+		uid: "4b845ddf",
+		type: "xp",
+		xp: 100
+	}]
+}

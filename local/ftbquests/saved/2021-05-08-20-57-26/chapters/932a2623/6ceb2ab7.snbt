@@ -1,0 +1,18 @@
+{
+	title: "粉碎蘑菇精",
+	x: 10.0d,
+	y: 13.5d,
+	text: [
+		"没有特殊召唤机制，刷新在真菌森林群落中",
+		"同样是非常难找的群落，特点是会有神色的草方块，并且会长很多蘑菇，非常显眼"
+	],
+	dependencies: [
+		"fefedff9"
+	],
+	tasks: [{
+		uid: "f1f20986",
+		type: "kill",
+		entity: "erebus:erebus.crushroom",
+		value: 1L
+	}]
+}

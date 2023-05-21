@@ -1,0 +1,1 @@
+recipes.addShaped(<twilightforest:steeleaf_ingot> * 6, [[<legendera:devildom_amethyst>, <legendera:devildom_amethyst>, <legendera:devildom_amethyst>], [<legendera:devildom_amethyst>, <legendera:evilkind_god_core>, <legendera:devildom_amethyst>], [<legendera:devildom_amethyst>, <legendera:devildom_amethyst>, <legendera:devildom_amethyst>]]);

@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: -2.5d,
+	text: [
+		"在金字塔里杀死一个石头守卫"
+	],
+	dependencies: [
+		"5f57f38b"
+	],
+	tasks: [{
+		uid: "99c2d852",
+		type: "advancement",
+		advancement: "atum:core/stonecarver",
+		criterion: ""
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	icon: "twilightforest:alpha_fur",
+	x: 24.0d,
+	y: 2.0d,
+	dependencies: [
+		"21f6537e"
+	],
+	tasks: [{
+		uid: "1dd87aa5",
+		type: "kill",
+		entity: "twilightforest:yeti_alpha",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "eccde09f",
+		type: "item",
+		item: "twilightforest:alpha_fur",
+		count: 8
+	},
+	{
+		uid: "e736f5ce",
+		type: "xp_levels",
+		xp_levels: 10
+	}]
+}

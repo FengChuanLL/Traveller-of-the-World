@@ -1,0 +1,25 @@
+{
+	title: "这好像没那么难嘛",
+	x: 24.5d,
+	y: -10.0d,
+	description: "获得木棍",
+	text: [
+		"虽然撸不动树了，撸一撸树叶弄点木棍还是可以的……"
+	],
+	dependencies: [
+		"a690ce01"
+	],
+	tasks: [{
+		uid: "4bf4bc17",
+		type: "item",
+		items: [{
+			item: "minecraft:stick"
+		}]
+	}],
+	rewards: [{
+		uid: "245109b3",
+		type: "item",
+		item: "minecraft:stick",
+		count: 32
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 13.5d,
+	y: 4.5d,
+	dependencies: [
+		"59c5038b"
+	],
+	tasks: [{
+		uid: "669fcbe4",
+		type: "item",
+		items: [{
+			item: "erebus:tarantula_egg"
+		}]
+	},
+	{
+		uid: "7f733ca6",
+		type: "item",
+		items: [{
+			item: "erebus:spider_t_shirt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

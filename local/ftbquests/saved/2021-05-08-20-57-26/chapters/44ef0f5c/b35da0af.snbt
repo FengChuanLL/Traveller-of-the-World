@@ -1,0 +1,14 @@
+{
+	x: 26.0d,
+	y: -1.5d,
+	dependencies: [
+		"bf456125"
+	],
+	tasks: [{
+		uid: "920b21ec",
+		type: "item",
+		items: [{
+			item: "twilightforest:tower_key"
+		}]
+	}]
+}

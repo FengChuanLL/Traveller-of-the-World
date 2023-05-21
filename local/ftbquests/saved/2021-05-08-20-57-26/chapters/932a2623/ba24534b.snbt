@@ -1,0 +1,75 @@
+{
+	x: 16.0d,
+	y: -5.5d,
+	or_tasks: true,
+	tasks: [{
+		uid: "8eefd764",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie 1 8"
+		}]
+	},
+	{
+		uid: "d06a14e6",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie 1 9"
+		}]
+	},
+	{
+		uid: "618ae2d9",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie"
+		}]
+	},
+	{
+		uid: "d602bfd3",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie 1 1"
+		}]
+	},
+	{
+		uid: "cd0c212f",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie 1 2"
+		}]
+	},
+	{
+		uid: "17bf384c",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie 1 3"
+		}]
+	},
+	{
+		uid: "e2e25ac8",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie 1 4"
+		}]
+	},
+	{
+		uid: "a3841c47",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie 1 5"
+		}]
+	},
+	{
+		uid: "8b187d6c",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie 1 6"
+		}]
+	},
+	{
+		uid: "d396010a",
+		type: "item",
+		items: [{
+			item: "erebus:smoothie 1 3"
+		}]
+	}]
+}

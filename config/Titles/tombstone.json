@@ -1,0 +1,19 @@
+{
+  "COMMON": [
+    "tutorial/bone_crusher",
+    "tutorial/funeral_theft",
+    "tutorial/revive_familiar"
+  ],
+  "UNCOMMON": [
+    "tutorial/tomb_raiding",
+    "tombstone:tutorial/almost_unkillable",
+    "tutorial/master_of_exorcism",
+    "tutorial/guardian_of_eternity",
+    "tutorial/genocide"
+  ],
+  "RARE": [
+    "tutorial/versatility",
+    "tutorial/village_defender",
+    "tutorial/soul_eater"
+  ]
+}

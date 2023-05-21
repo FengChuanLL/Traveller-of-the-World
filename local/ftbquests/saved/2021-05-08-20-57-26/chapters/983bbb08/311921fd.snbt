@@ -1,0 +1,17 @@
+{
+	title: "哞？？？？？？",
+	x: 4.5d,
+	y: -4.5d,
+	text: [
+		"神经病啊？？？？？？"
+	],
+	dependencies: [
+		"689504ca"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "448b2232",
+		type: "dimension",
+		dim: 5
+	}]
+}

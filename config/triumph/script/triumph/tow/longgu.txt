@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<iceandfire:dragonbone>)
+
+//Set title String
+setTitle("记得痛饮")
+
+//Set description String
+setDescription("制作药一个龙壶")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/tulong")
+
+//Set the position
+setPos(375,145)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("huodelongge", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<iceandfire:dragonbone>)

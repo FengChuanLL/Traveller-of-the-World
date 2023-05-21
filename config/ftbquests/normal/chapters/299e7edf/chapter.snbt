@@ -1,0 +1,7 @@
+{
+	title: "食物拓展",
+	icon: "xlfoodmod:cheeseburger",
+	always_invisible: false,
+	group: -362069978,
+	default_quest_shape: ""
+}

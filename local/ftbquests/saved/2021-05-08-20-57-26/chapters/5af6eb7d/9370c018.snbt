@@ -1,0 +1,14 @@
+{
+	x: 14.5d,
+	y: 6.5d,
+	dependencies: [
+		"2161b370"
+	],
+	tasks: [{
+		uid: "c1cd2ad0",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadfragment"
+		}]
+	}]
+}

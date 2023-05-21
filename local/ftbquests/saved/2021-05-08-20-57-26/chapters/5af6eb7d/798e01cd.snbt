@@ -1,0 +1,24 @@
+{
+	title: "沉睡者仪式",
+	x: -5.0d,
+	y: 9.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"5ee1c0b7"
+	],
+	tasks: [{
+		uid: "c1ae743c",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "liquidcoralium",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: 17.5d,
+	dependencies: [
+		"d896e3c8"
+	],
+	tasks: [{
+		uid: "e0c4e0d5",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadcloth"
+		}]
+	}]
+}

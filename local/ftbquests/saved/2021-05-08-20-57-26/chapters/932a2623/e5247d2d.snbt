@@ -1,0 +1,50 @@
+{
+	x: 10.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "28484a29",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 13"
+		}]
+	},
+	{
+		uid: "2174c5d1",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 8"
+		}],
+		count: 8L
+	},
+	{
+		uid: "1fc356fc",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 21"
+		}],
+		count: 8L
+	},
+	{
+		uid: "e8aa743d",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 26"
+		}]
+	},
+	{
+		uid: "4bef54b2",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 12"
+		}],
+		count: 3L
+	},
+	{
+		uid: "9affad62",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 18"
+		}],
+		count: 2L
+	}]
+}

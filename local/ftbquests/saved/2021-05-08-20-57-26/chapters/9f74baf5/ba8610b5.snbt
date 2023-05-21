@@ -1,0 +1,63 @@
+{
+	x: 12.5d,
+	y: -11.5d,
+	dependencies: [
+		"23809d8f"
+	],
+	tasks: [{
+		uid: "4e302a2b",
+		type: "item",
+		items: [{
+			item: "atum:eyes_of_atum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "85725eaa",
+		type: "item",
+		items: [{
+			item: "atum:body_of_atum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7a0a9d5f",
+		type: "item",
+		items: [{
+			item: "atum:legs_of_atum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1c0e5860",
+		type: "item",
+		items: [{
+			item: "atum:feet_of_atum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "268dfcdb",
+		type: "item",
+		item: "atum:atums_will"
+	},
+	{
+		uid: "b19832e8",
+		type: "item",
+		item: "atum:atums_protection"
+	},
+	{
+		uid: "217cfd1c",
+		type: "item",
+		item: "atum:atums_bounty"
+	},
+	{
+		uid: "0f0fcec5",
+		type: "item",
+		item: "atum:atums_homecoming"
+	}]
+}

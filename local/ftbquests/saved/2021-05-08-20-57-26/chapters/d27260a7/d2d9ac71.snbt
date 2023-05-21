@@ -1,0 +1,19 @@
+{
+	title: "更强大的旅行者背包",
+	x: -14.5d,
+	y: 1.0d,
+	text: [
+		"不同旅行者背包还有不同的属性，包括深海探索者、水下呼吸等，请尽情尝试"
+	],
+	dependencies: [
+		"f0df1029"
+	],
+	tasks: [{
+		uid: "c8a6c4eb",
+		type: "item",
+		items: [{
+			item: "travelersbackpack:travelers_backpack 1 57"
+		}],
+		ignore_nbt: 1b
+	}]
+}

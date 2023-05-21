@@ -1,0 +1,46 @@
+{
+	x: 4.0d,
+	y: -13.5d,
+	dependencies: [
+		"c53218e6"
+	],
+	tasks: [{
+		uid: "bf4c2e6d",
+		type: "item",
+		items: [{
+			item: "tconstruct:slimesling"
+		}],
+		ignore_nbt: 2b,
+		only_from_crafting: false
+	}],
+	rewards: [{
+		uid: "3281ebce",
+		type: "item",
+		item: "tconstruct:slime_sapling"
+	},
+	{
+		uid: "69b69b10",
+		type: "item",
+		item: "tconstruct:slime_sapling 1 1"
+	},
+	{
+		uid: "82c6400b",
+		type: "item",
+		item: "tconstruct:slime_sapling 1 2"
+	},
+	{
+		uid: "03f5e4ea",
+		type: "item",
+		item: "tconstruct:slime_dirt 1 1"
+	},
+	{
+		uid: "7db7cd88",
+		type: "item",
+		item: "tconstruct:slime_dirt 1 2"
+	},
+	{
+		uid: "a46343da",
+		type: "item",
+		item: "tconstruct:slime_dirt 1 3"
+	}]
+}

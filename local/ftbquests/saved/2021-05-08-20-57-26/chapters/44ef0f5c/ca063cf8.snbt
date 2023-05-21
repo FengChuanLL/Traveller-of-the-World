@@ -1,0 +1,126 @@
+{
+	icon: "twilightforest:trophy 1 8",
+	x: -1.5d,
+	y: -6.5d,
+	dependencies: [
+		"42023d06"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "e85281db",
+		type: "item",
+		items: [{
+			item: "minecraft:wool"
+		}]
+	},
+	{
+		uid: "75de424c",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 1"
+		}]
+	},
+	{
+		uid: "450c61ff",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 2"
+		}]
+	},
+	{
+		uid: "2a52802f",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 3"
+		}]
+	},
+	{
+		uid: "cf2269dc",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 4"
+		}]
+	},
+	{
+		uid: "cbc3c176",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 5"
+		}]
+	},
+	{
+		uid: "d93f42d5",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 6"
+		}]
+	},
+	{
+		uid: "61384bc0",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 7"
+		}]
+	},
+	{
+		uid: "a40517aa",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 8"
+		}]
+	},
+	{
+		uid: "93de1444",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 9"
+		}]
+	},
+	{
+		uid: "ad7e6599",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 10"
+		}]
+	},
+	{
+		uid: "98317aa8",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 11"
+		}]
+	},
+	{
+		uid: "aa3dea6b",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 12"
+		}]
+	},
+	{
+		uid: "76d87c28",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 14"
+		}]
+	},
+	{
+		uid: "17ffc5e0",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 13"
+		}]
+	},
+	{
+		uid: "4115ecfd",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 15"
+		}]
+	}],
+	rewards: [{
+		uid: "73b0b0fb",
+		type: "item",
+		item: "twilightforest:trophy 1 8"
+	}]
+}

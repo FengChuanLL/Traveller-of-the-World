@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<abyssalcraft:necronomicon>)
+
+//Set title String
+setTitle("古神的呼唤")
+
+//Set description String
+setDescription("制作初级死灵之书")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/duanzaotai2")
+
+//Set the position
+setPos(975,95)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("silingzhishu", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<abyssalcraft:necronomicon>)

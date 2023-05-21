@@ -1,0 +1,25 @@
+{
+	x: 15.5d,
+	y: -9.5d,
+	dependencies: [
+		"4b01fab7"
+	],
+	tasks: [{
+		uid: "4d9405bc",
+		type: "item",
+		items: [{
+			item: "twilightforest:maze_map_empty"
+		}]
+	}],
+	rewards: [{
+		uid: "170bed65",
+		type: "xp",
+		xp: 100
+	},
+	{
+		uid: "665836bf",
+		type: "item",
+		item: "twilightforest:maze_map_empty",
+		count: 10
+	}]
+}

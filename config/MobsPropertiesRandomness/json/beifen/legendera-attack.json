@@ -1,0 +1,24 @@
+{
+	"mob_id": "legendera:*",
+	"potion_effects": [
+		{
+			"id": "minecraft:strength",
+			"amplifier": {
+				"min": 10,
+				"max": 20
+			},
+			"chance": {
+				"amount": 100,
+				"affected_by_difficulty": false,
+				"is_local_difficulty": false,
+				"multiplier": 1
+			},
+			"ambient": false,
+			"hide_particles": false,
+			"dimensions": [
+				1000,
+				1001
+			]
+		}
+	]
+}

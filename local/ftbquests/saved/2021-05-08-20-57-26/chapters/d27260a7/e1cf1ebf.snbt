@@ -1,0 +1,71 @@
+{
+	x: 38.0d,
+	y: -2.5d,
+	dependencies: [
+		"22cc7dbe"
+	],
+	tasks: [{
+		uid: "8fd07d0f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "partPickHead",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any partPickHead"
+				}
+			}
+		}]
+	},
+	{
+		uid: "c8ebf84f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "partToolRod",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any partToolRod"
+				}
+			}
+		}]
+	},
+	{
+		uid: "0d99f5c3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "partBinding",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any partBinding"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "db3247cb",
+		type: "item",
+		item: "minecraft:diamond"
+	},
+	{
+		uid: "89e40840",
+		type: "item",
+		item: "minecraft:emerald"
+	}]
+}

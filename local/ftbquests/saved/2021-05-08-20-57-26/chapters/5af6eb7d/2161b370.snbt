@@ -1,0 +1,17 @@
+{
+	title: "恐惧之地",
+	x: 11.0d,
+	y: 9.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"c3510897"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "a6aac3a5",
+		type: "dimension",
+		dim: 51
+	}]
+}

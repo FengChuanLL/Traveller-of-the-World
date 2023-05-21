@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<acheads:head:16>)
+
+//Set title String
+setTitle("旧日的支配者")
+
+//Set description String
+setDescription("击败末日先驱萨托斯")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/chajialuosi")
+
+//Set the position
+setPos(1175,95)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "killed_spider" with the trigger type "minecraft:player_killed_entity". This function returns the criteria as an object
+criteria = addCriteria("killed_satuosi", "minecraft:player_killed_entity")
+
+//Sets the required entity type for the criteria. This is the entity that the player must kill.
+criteria.setEntityType("abyssalcraft:shadowboss")

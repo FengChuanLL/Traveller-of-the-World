@@ -1,0 +1,1 @@
+recipes.addShaped(<culinaryconstruct:sandwich>, [[<minecraft:bread>, <minecraft:nether_star>, <minecraft:bread>], [<minecraft:nether_star>, <minecraft:nether_star>, <minecraft:nether_star>], [<minecraft:bread>, <minecraft:nether_star>, <minecraft:bread>]]);

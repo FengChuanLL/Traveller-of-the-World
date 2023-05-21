@@ -1,0 +1,1 @@
+<ore:string>.remove(<theaurorian:plantfiber>);

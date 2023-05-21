@@ -1,0 +1,60 @@
+{
+	x: 10.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "758a1283",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_balsam"
+		}]
+	},
+	{
+		uid: "e0dbb1a7",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_eucalyptus"
+		}]
+	},
+	{
+		uid: "e8570f0f",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_mahogany"
+		}]
+	},
+	{
+		uid: "084f110a",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_cypress"
+		}]
+	},
+	{
+		uid: "d2bb8140",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_mossbark"
+		}]
+	},
+	{
+		uid: "3ace4dd2",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_marshwood"
+		}]
+	},
+	{
+		uid: "3dbce890",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_baobab"
+		}]
+	},
+	{
+		uid: "d320b562",
+		type: "item",
+		items: [{
+			item: "erebus:sapling_asper"
+		}]
+	}]
+}

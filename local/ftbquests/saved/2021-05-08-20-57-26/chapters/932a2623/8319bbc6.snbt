@@ -1,0 +1,19 @@
+{
+	title: "第二层",
+	x: 15.5d,
+	y: 8.0d,
+	text: [
+		"需要8个外骨骼板"
+	],
+	dependencies: [
+		"53da1e3d"
+	],
+	tasks: [{
+		uid: "77d75f40",
+		type: "item",
+		items: [{
+			item: "erebus:materials"
+		}],
+		count: 8L
+	}]
+}

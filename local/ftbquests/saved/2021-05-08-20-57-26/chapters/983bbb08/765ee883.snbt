@@ -1,0 +1,15 @@
+{
+	x: 20.5d,
+	y: -2.0d,
+	dependencies: [
+		"4d69ee4e"
+	],
+	tasks: [{
+		uid: "51913af3",
+		type: "item",
+		items: [{
+			item: "aether_legacy:dungeon_key"
+		}],
+		ignore_nbt: 1b
+	}]
+}

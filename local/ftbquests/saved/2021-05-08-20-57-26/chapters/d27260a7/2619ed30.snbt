@@ -1,0 +1,24 @@
+{
+	x: 38.0d,
+	y: -12.0d,
+	dependencies: [
+		"1e432ec5"
+	],
+	tasks: [{
+		uid: "b23deec5",
+		type: "item",
+		items: [{
+			item: "bountifulbaubles:reforger"
+		}]
+	}],
+	rewards: [{
+		uid: "6fa74672",
+		type: "item",
+		item: "minecraft:emerald"
+	},
+	{
+		uid: "2568ff9e",
+		type: "item",
+		item: "minecraft:diamond"
+	}]
+}

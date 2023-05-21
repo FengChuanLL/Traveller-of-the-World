@@ -1,0 +1,39 @@
+{
+	icon: "twilightforest:trophy 1 1",
+	x: 13.0d,
+	y: -1.5d,
+	dependencies: [
+		"abb5776a"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "7320b458",
+		type: "kill",
+		entity: "twilightforest:lich",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "48ef7e21",
+		type: "item",
+		item: "twilightforest:twilight_scepter",
+		only_one: true
+	},
+	{
+		uid: "dc82b9b9",
+		type: "item",
+		item: "twilightforest:lifedrain_scepter",
+		only_one: true
+	},
+	{
+		uid: "cdfad2bb",
+		type: "item",
+		item: "twilightforest:zombie_scepter",
+		only_one: true
+	},
+	{
+		uid: "c789714a",
+		type: "item",
+		item: "twilightforest:shield_scepter",
+		only_one: true
+	}]
+}

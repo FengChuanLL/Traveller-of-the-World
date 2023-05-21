@@ -1,0 +1,34 @@
+{
+	"mob_id": "minecraft:magma_cube",
+	"attributes": [
+		{
+			"id": "generic.maxHealth",
+			"modifier": {
+				"min": 18,
+				"max": 24
+			},
+			"is_flat": true,
+			"affected_by_difficulty": false,
+			"dimensions": [
+				0,
+				-1,
+				1,
+				992,
+				993,
+				52,
+				997,
+				51,
+				1000,
+				998,
+				1001,
+				50,
+				7,
+				995,
+				991,
+				424,
+				996,
+				994,
+				53			]
+		}
+	]
+}

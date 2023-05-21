@@ -1,0 +1,350 @@
+{
+	x: 9.5d,
+	y: -9.5d,
+	dependencies: [
+		"b61d96a4"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "cf17c282",
+		type: "item",
+		items: [{
+			item: "atum:eyes_of_atum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5ae6edf2",
+		type: "item",
+		items: [{
+			item: "atum:body_of_atum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ca3726aa",
+		type: "item",
+		items: [{
+			item: "atum:legs_of_atum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "30f608ce",
+		type: "item",
+		items: [{
+			item: "atum:feet_of_atum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fc333bd2",
+		type: "item",
+		items: [{
+			item: "atum:atums_will"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3d47e501",
+		type: "item",
+		items: [{
+			item: "atum:atums_protection"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4263f7d3",
+		type: "item",
+		items: [{
+			item: "atum:atums_bounty"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9ea3c7d0",
+		type: "item",
+		items: [{
+			item: "atum:atums_homecoming"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3045482f",
+		type: "item",
+		items: [{
+			item: "atum:halo_of_ra"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "33cc564f",
+		type: "item",
+		items: [{
+			item: "atum:body_of_ra"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c7d23c8f",
+		type: "item",
+		items: [{
+			item: "atum:legs_of_ra"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5fc5f991",
+		type: "item",
+		items: [{
+			item: "atum:feet_of_ra"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a97e21f9",
+		type: "item",
+		items: [{
+			item: "atum:ras_fury"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4646ce15",
+		type: "item",
+		items: [{
+			item: "atum:ptahs_decadence"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "86fcfe74",
+		type: "item",
+		items: [{
+			item: "atum:ptahs_undoing"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "25b08341",
+		type: "item",
+		items: [{
+			item: "atum:gebs_toil"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9acc3310",
+		type: "item",
+		items: [{
+			item: "atum:gebs_grounding"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4f7af029",
+		type: "item",
+		items: [{
+			item: "atum:gebs_might"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "85c56731",
+		type: "item",
+		items: [{
+			item: "atum:tefnuts_rain"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "91628e08",
+		type: "item",
+		items: [{
+			item: "atum:tefnuts_call"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "df1dda64",
+		type: "item",
+		items: [{
+			item: "atum:tefnuts_blessing"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cadd4abc",
+		type: "item",
+		items: [{
+			item: "atum:shus_breath"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c7bd4807",
+		type: "item",
+		items: [{
+			item: "atum:shus_exile"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c239d0f5",
+		type: "item",
+		items: [{
+			item: "atum:shus_swiftness"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bc11ed52",
+		type: "item",
+		items: [{
+			item: "atum:horuss_soaring"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "55a20002",
+		type: "item",
+		items: [{
+			item: "atum:horuss_ascension"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "316f4984",
+		type: "item",
+		items: [{
+			item: "atum:seths_venom"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a987e355",
+		type: "item",
+		items: [{
+			item: "atum:seths_sting"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ec78a939",
+		type: "item",
+		items: [{
+			item: "atum:isis_healing"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0d1e9a39",
+		type: "item",
+		items: [{
+			item: "atum:montus_blast"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8831c93c",
+		type: "item",
+		items: [{
+			item: "atum:montus_strike"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e47a5a55",
+		type: "item",
+		items: [{
+			item: "atum:anubiss_mercy"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7df9aa4d",
+		type: "item",
+		items: [{
+			item: "atum:anubiss_wrath"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6da69bea",
+		type: "item",
+		items: [{
+			item: "atum:anputs_hunger"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "765d5eb8",
+		type: "item",
+		items: [{
+			item: "atum:nuits_vanishing"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "abb49cec",
+		type: "item",
+		items: [{
+			item: "atum:nuits_duality"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1821fbab",
+		type: "item",
+		items: [{
+			item: "atum:nuits_ire"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "606a506e",
+		type: "item",
+		items: [{
+			item: "atum:nuits_quarter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

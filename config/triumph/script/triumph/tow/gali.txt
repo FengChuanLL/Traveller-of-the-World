@@ -1,0 +1,27 @@
+
+//Set icon item
+setIcon(<divinerpg:korma_chestplate>)
+
+//Set title String
+setTitle("大 法 师")
+
+//Set description String
+setDescription("获得完整的咖喱套")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/mijie")
+
+//Set the position
+setPos(1575,95)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("gali", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<divinerpg:korma_helmet>)
+criteria.addItem(<divinerpg:korma_chestplate>)
+criteria.addItem(<divinerpg:korma_leggings>)
+criteria.addItem(<divinerpg:korma_boots>)

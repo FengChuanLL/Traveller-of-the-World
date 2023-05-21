@@ -1,0 +1,25 @@
+{
+	x: -9.5d,
+	y: 1.0d,
+	dependencies: [
+		"889c9843"
+	],
+	tasks: [{
+		uid: "29d3da38",
+		type: "item",
+		items: [{
+			item: "warpbook:unboundwarppage"
+		}]
+	}],
+	rewards: [{
+		uid: "a6b8c6aa",
+		type: "item",
+		item: "warpbook:unboundwarppage",
+		count: 10
+	},
+	{
+		uid: "1ceadb01",
+		type: "xp",
+		xp: 100
+	}]
+}

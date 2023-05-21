@@ -1,0 +1,18 @@
+{
+	x: 7.5d,
+	y: -2.0d,
+	text: [
+		"从深渊国度的生物身上获得精髓"
+	],
+	dependencies: [
+		"9729f372"
+	],
+	tasks: [{
+		uid: "1f577064",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:drainstaff"
+		}],
+		ignore_nbt: 1b
+	}]
+}

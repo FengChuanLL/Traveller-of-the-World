@@ -1,0 +1,29 @@
+{
+	icon: "twilightforest:trophy 1 4",
+	x: 24.0d,
+	y: -1.5d,
+	dependencies: [
+		"ba0b5b30"
+	],
+	tasks: [{
+		uid: "02790327",
+		type: "kill",
+		entity: "twilightforest:knight_phantom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "88a293fe",
+		type: "item",
+		item: "twilightforest:phantom_helmet"
+	},
+	{
+		uid: "f7ff5ca6",
+		type: "item",
+		item: "twilightforest:phantom_chestplate"
+	},
+	{
+		uid: "aaa457bb",
+		type: "xp_levels",
+		xp_levels: 10
+	}]
+}

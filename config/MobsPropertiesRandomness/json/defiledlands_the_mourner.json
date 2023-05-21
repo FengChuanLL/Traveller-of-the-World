@@ -1,0 +1,37 @@
+{
+	"mob_id": "defiledlands:the_mourner",
+	"potion_effects": [
+		{
+			"id": "potioncore:archery",
+			"amplifier": {
+				"min": 5,
+				"max": 6
+			},
+			"chance": {
+				"amount": 100,
+				"affected_by_difficulty": false,
+				"is_local_difficulty": false,
+				"multiplier": 1
+			},
+			"ambient": false,
+			"hide_particles": false,
+			"dimensions": [
+				0
+			]
+		}
+	],
+	"attributes": [
+		{
+			"id": "generic.maxHealth",
+			"modifier": {
+				"min": 800,
+				"max": 800
+			},
+			"is_flat": true,
+			"affected_by_difficulty": false,
+			"dimensions": [
+				0
+			]
+		}
+	]
+}

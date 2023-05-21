@@ -1,0 +1,88 @@
+{
+	title: "向这个世界进军！",
+	icon: {
+		id: "tconstruct:broadsword",
+		tag: {
+			StatsOriginal: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 8.2f,
+				FreeModifiers: 3,
+				Durability: 1897,
+				HarvestLevel: 4,
+				Attack: 8.5f
+			},
+			Stats: {
+				AttackSpeedMultiplier: 1.0f,
+				MiningSpeed: 8.2f,
+				FreeModifiers: 3,
+				Durability: 1897,
+				HarvestLevel: 4,
+				Attack: 8.5f
+			},
+			Special: {
+				Categories: [
+					"tool",
+					"weapon"
+				]
+			},
+			TinkerData: {
+				Materials: [
+					"auroriansteel",
+					"auroriansteel",
+					"auroriansteel"
+				],
+				Modifiers: []
+			},
+			Modifiers: [{
+				identifier: "established",
+				color: -10472705,
+				level: 1
+			},
+			{
+				identifier: "aurorianempowered",
+				color: -10472705,
+				level: 1
+			}],
+			Traits: [
+				"established",
+				"aurorianempowered"
+			]
+		}
+	},
+	x: -24.5d,
+	y: -5.5d,
+	description: "击杀凋零！击杀末影龙！",
+	text: [
+		"更合理的凋零骷髅掉落！杀死凋零骷髅必定掉落头骨碎片，可合成头骨！",
+		"以及更简单的末地寻找！"
+	],
+	dependencies: [
+		"4581acc8"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "f6bd0250",
+		type: "item",
+		items: [{
+			item: "witherskelefix:fragment"
+		}]
+	},
+	{
+		uid: "4b16e65b",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_eye"
+		}]
+	}],
+	rewards: [{
+		uid: "24e497c4",
+		type: "item",
+		item: "minecraft:ender_eye",
+		count: 3
+	},
+	{
+		uid: "efc3b014",
+		type: "item",
+		item: "minecraft:skull 1 1"
+	}]
+}

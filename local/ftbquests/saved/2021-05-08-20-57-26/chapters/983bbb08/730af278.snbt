@@ -1,0 +1,14 @@
+{
+	x: 13.0d,
+	y: 9.5d,
+	dependencies: [
+		"59302a9a"
+	],
+	tasks: [{
+		uid: "782de949",
+		type: "item",
+		items: [{
+			item: "aether_legacy:ambrosium_shard"
+		}]
+	}]
+}

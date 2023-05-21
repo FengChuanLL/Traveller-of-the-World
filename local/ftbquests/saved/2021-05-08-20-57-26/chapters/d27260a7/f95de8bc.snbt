@@ -1,0 +1,28 @@
+{
+	title: "战斗吧！冒险者！",
+	x: 18.5d,
+	y: -1.5d,
+	dependencies: [
+		"debc6077"
+	],
+	tasks: [{
+		uid: "9bbd7f25",
+		type: "kill",
+		icon: "minecraft:diamond_sword",
+		entity: "minecraft:zombie",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "626121cf",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 3s,
+					id: 21
+				}]
+			}
+		}
+	}]
+}

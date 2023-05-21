@@ -1,0 +1,27 @@
+
+//Set icon item
+setIcon(<custommc:xz1>)
+
+//Set title String
+setTitle("来自另一个次元的“生物”")
+
+//Set description String
+setDescription("获得完整的潜声套装")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:custom/qianshengxiongjia")
+
+//Set the position
+setPos(325,195)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("qianshengtao", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<custommc:tk1>)
+criteria.addItem(<custommc:kj1>)
+criteria.addItem(<custommc:kz1>)
+criteria.addItem(<custommc:xz1>)

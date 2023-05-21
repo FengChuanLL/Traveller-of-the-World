@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<divinerpg:termasect_statue>)
+
+//Set title String
+setTitle("你真的不是机器人吗？")
+
+//Set description String
+setDescription("击败特玛赛克特")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/taiyangfengbao")
+
+//Set the position
+setPos(1325,95)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "killed_spider" with the trigger type "minecraft:player_killed_entity". This function returns the criteria as an object
+criteria = addCriteria("killed_temasaikete", "minecraft:player_killed_entity")
+
+//Sets the required entity type for the criteria. This is the entity that the player must kill.
+criteria.setEntityType("divinerpg:termasect")

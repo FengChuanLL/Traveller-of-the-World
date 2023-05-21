@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<custommc:wqs5>)
+
+//Set title String
+setTitle("日月已在我手")
+
+//Set description String
+setDescription("获得乾坤日月")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:custom/root")
+
+//Set the position
+setPos(175,45)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("qiankunriyue", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<custommc:wqs5>)

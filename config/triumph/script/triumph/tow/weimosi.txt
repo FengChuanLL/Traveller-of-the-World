@@ -1,0 +1,27 @@
+
+//Set icon item
+setIcon(<divinerpg:vemos_chestplate>)
+
+//Set title String
+setTitle("只有活下来的人才能补刀")
+
+//Set description String
+setDescription("获得完整的维魔斯套")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/mijie")
+
+//Set the position
+setPos(1575,45)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("weimosi", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<divinerpg:vemos_helmet>)
+criteria.addItem(<divinerpg:vemos_chestplate>)
+criteria.addItem(<divinerpg:vemos_leggings>)
+criteria.addItem(<divinerpg:vemos_boots>)

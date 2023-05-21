@@ -1,0 +1,353 @@
+[
+    {
+        "mob": 
+        [
+          "mutantbeasts:mutant_zombie"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "突变生物"
+      },
+    {
+        "mob": 
+        [
+          "mutantbeasts:mutant_creeper"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "突变生物"
+      },
+    {
+        "mob": 
+        [
+          "mutantbeasts:mutant_snow_golem"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "突变生物"
+      },
+    {
+        "mob": 
+        [
+          "mutantbeasts:spider_pig"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "突变生物"
+      },
+    {
+        "mob": 
+        [
+          "mutantbeasts:mutant_skeleton"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "突变生物"
+      },
+    {
+        "mob": 
+        [
+          "mutantbeasts:mutant_enderman"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "突变生物"
+      },
+    {
+        "mob": 
+        [
+          "mutantbeasts:creeper_minion"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "突变生物"
+      },
+      {
+        "mob": 
+        [
+          "divinerpg:rainbour"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "Del"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:skeletonking"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:salamander"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:mimic"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:lilsludge"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:scarecrow"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:unburied"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:weta"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:piranha"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:pingu"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:lavacow"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:raven"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:ghostray"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:zombiemushroom"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:parasite"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:foglet"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:zombiefrozen"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:undeadswine"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:ithaqua"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:sludgelord"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:ptera"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:vespa"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:vespacocoon"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:zombiepiranha"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:boneworm"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:undertaker"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:banshee"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:avaton"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:mummy"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "mod_lavacow:forsaken"
+        ],
+        "result": "defalut",
+        "onjoin": true,
+        "gamestage": "亡灵崛起"
+      },
+      {
+        "mob": 
+        [
+          "divinerpg:rainbour"
+        ],
+        "result": "deny",
+        "onjoin": true
+      },
+      {
+        "dimension": 0,
+        "mob": "divinerpg:ender_spider",
+        "mincount": {
+          "amount": 1,
+          "hostile": true,
+          "perplayer": false
+        },
+        "result": "deny"
+      }      
+]

@@ -1,0 +1,20 @@
+{
+	x: 10.0d,
+	y: 4.5d,
+	text: [
+		"刷新在由桉树原木搭建的高塔中，刷新概率不高，但较为显眼",
+		"该高塔蜘蛛网极多，务必带上匠魂的武器来清理蜘蛛网",
+		"",
+		"boss第一阶段（外表发出蓝色的光）免疫近战伤害，必须使用远程武器攻击",
+		"boss第二阶段蓝色的光消失，变为远程伤害免疫，只能用近战伤害攻击"
+	],
+	dependencies: [
+		"fefedff9"
+	],
+	tasks: [{
+		uid: "c10050fc",
+		type: "kill",
+		entity: "erebus:erebus.tarantula_mini_boss",
+		value: 1L
+	}]
+}

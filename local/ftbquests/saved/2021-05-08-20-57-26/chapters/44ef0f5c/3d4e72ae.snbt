@@ -1,0 +1,54 @@
+{
+	title: "击杀牛头人",
+	icon: "twilightforest:trophy 1 6",
+	x: 18.0d,
+	y: -9.5d,
+	text: [
+		"牛头人迷宫在沼泽地区（九头蛇boss之外）的坑里，魔法地图没有标记"
+	],
+	dependencies: [
+		"0b8cba4f"
+	],
+	tasks: [{
+		uid: "47ec09a8",
+		type: "kill",
+		entity: "twilightforest:minoshroom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "80c03876",
+		type: "item",
+		item: "twilightforest:cooked_meef"
+	},
+	{
+		uid: "b99df7cd",
+		type: "item",
+		item: "twilightforest:meef_stroganoff"
+	},
+	{
+		uid: "ece89839",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "616f154f",
+		type: "item",
+		item: {
+			id: "twilightforest:mazebreaker_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 4s,
+					id: 32
+				},
+				{
+					lvl: 3s,
+					id: 34
+				},
+				{
+					lvl: 2s,
+					id: 35
+				}]
+			}
+		}
+	}]
+}

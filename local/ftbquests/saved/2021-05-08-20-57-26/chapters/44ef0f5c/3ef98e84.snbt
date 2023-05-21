@@ -1,0 +1,16 @@
+{
+	icon: "twilightforest:trophy 1 2",
+	x: 32.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "a466c2bc",
+		type: "kill",
+		entity: "twilightforest:hydra",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c7d22e1e",
+		type: "xp_levels",
+		xp_levels: 10
+	}]
+}

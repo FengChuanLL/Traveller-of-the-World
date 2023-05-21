@@ -1,0 +1,17 @@
+{
+	"mob_id": "trumpetskeleton:trumpet_skeleton",
+	"attributes": [
+		{
+			"id": "generic.armor",
+			"modifier": {
+				"min": 20,
+				"max": 21
+			},
+			"is_flat": true,
+			"affected_by_difficulty": false,
+			"dimensions": [
+				0
+			]
+		}
+	]
+}

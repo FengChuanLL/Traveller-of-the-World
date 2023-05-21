@@ -1,0 +1,15 @@
+{
+	x: 15.5d,
+	y: 12.0d,
+	dependencies: [
+		"53da1e3d"
+	],
+	tasks: [{
+		uid: "5d8b73c3",
+		type: "item",
+		items: [{
+			item: "thebetweenlands:items_misc 1 17"
+		}],
+		count: 8L
+	}]
+}

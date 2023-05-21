@@ -1,0 +1,30 @@
+{
+	title: "这河里吗？",
+	x: 24.5d,
+	y: -5.5d,
+	description: "获得小块石头",
+	text: [
+		"撸不动树的你居然能把石头撸下来？这不科学"
+	],
+	dependencies: [
+		"debc6077"
+	],
+	tasks: [{
+		uid: "8dd63169",
+		type: "item",
+		items: [{
+			item: "tinkersurvival:rock_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "b0832f95",
+		type: "item",
+		item: "tinkersurvival:rock_stone",
+		count: 3
+	},
+	{
+		uid: "89bbf172",
+		type: "xp",
+		xp: 50
+	}]
+}

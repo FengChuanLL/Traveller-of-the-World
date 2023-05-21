@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<ironchest:iron_shulker_box_purple:2>)
+
+//Set title String
+setTitle("格子永远都不够用")
+
+//Set description String
+setDescription("制作一个紫色钻石潜影盒")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/moyinglong")
+
+//Set the position
+setPos(575,45)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("qianyinghe", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<ironchest:iron_shulker_box_purple:2>)

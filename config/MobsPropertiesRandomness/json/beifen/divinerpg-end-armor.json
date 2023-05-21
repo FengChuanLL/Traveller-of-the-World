@@ -1,0 +1,17 @@
+{
+	"mob_id": "divinerpg:*",
+	"attributes": [
+		{
+			"id": "generic.armor",
+			"modifier": {
+				"min": 30,
+				"max": 39
+			},
+			"is_flat": true,
+			"affected_by_difficulty": false,
+			"dimensions": [
+				1
+			]
+		}
+	]
+}

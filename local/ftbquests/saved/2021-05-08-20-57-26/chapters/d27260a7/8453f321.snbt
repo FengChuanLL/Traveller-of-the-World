@@ -1,0 +1,20 @@
+{
+	x: 24.5d,
+	y: -1.5d,
+	dependencies: [
+		"b4864396"
+	],
+	tasks: [{
+		uid: "f504d751",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}]
+	}],
+	rewards: [{
+		uid: "5056480e",
+		type: "item",
+		item: "minecraft:cobblestone",
+		count: 64
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 29.0d,
+	y: -5.5d,
+	dependencies: [
+		"b4864396",
+		"2dc1b762"
+	],
+	tasks: [{
+		uid: "68cbbee4",
+		type: "item",
+		items: [{
+			item: "tinkersurvival:crude_hatchet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fae4403e",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

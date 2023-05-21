@@ -1,0 +1,63 @@
+{
+	x: 15.5d,
+	y: 7.5d,
+	dependencies: [
+		"86273434"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "62ea3ff6",
+		type: "item",
+		items: [{
+			item: "saltmod:salt_rabbit_cooked"
+		}]
+	},
+	{
+		uid: "b0d42bed",
+		type: "item",
+		items: [{
+			item: "saltmod:salt_fish_cod_cooked"
+		}]
+	},
+	{
+		uid: "fcbbc52f",
+		type: "item",
+		items: [{
+			item: "saltmod:salt_beef_cooked"
+		}]
+	},
+	{
+		uid: "068c6e88",
+		type: "item",
+		items: [{
+			item: "saltmod:salt_fish_salmon_cooked"
+		}]
+	},
+	{
+		uid: "22e6987e",
+		type: "item",
+		items: [{
+			item: "saltmod:salt_mutton_cooked"
+		}]
+	},
+	{
+		uid: "71fad05e",
+		type: "item",
+		items: [{
+			item: "saltmod:salt_porkchop_cooked"
+		}]
+	},
+	{
+		uid: "e6f895c8",
+		type: "item",
+		items: [{
+			item: "saltmod:salt_chicken_cooked"
+		}]
+	}],
+	rewards: [{
+		uid: "aece86cf",
+		type: "item",
+		item: "xlfoodmod:salt",
+		count: 64
+	}]
+}

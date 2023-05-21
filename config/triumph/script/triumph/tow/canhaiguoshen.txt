@@ -1,0 +1,27 @@
+
+//Set icon item
+setIcon(<futuremc:netherite_chestplate>)
+
+//Set title String
+setTitle("残骸裹身")
+
+//Set description String
+setDescription("获得完整的下界合金套")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/yuangucanhai")
+
+//Set the position
+setPos(475,95)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("xiajiehejin", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<futuremc:netherite_helmet>)
+criteria.addItem(<futuremc:netherite_chestplate>)
+criteria.addItem(<futuremc:netherite_leggings>)
+criteria.addItem(<futuremc:netherite_boots>)

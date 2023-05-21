@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: 9.0d,
+	text: [
+		"深渊要塞获取 在地底下 y=27zy",
+		"需要用深渊国度稿子挖掘"
+	],
+	dependencies: [
+		"0ebde6b2"
+	],
+	tasks: [{
+		uid: "3f911391",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:psdl"
+		}]
+	}]
+}

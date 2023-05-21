@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<mod_lavacow:emblem_of_king>)
+
+//Set title String
+setTitle("亡灵之王")
+
+//Set description String
+setDescription("杀死骷髅王")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/duanzaotai")
+
+//Set the position
+setPos(325,145)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "killed_spider" with the trigger type "minecraft:player_killed_entity". This function returns the criteria as an object
+criteria = addCriteria("killed_kulouwang", "minecraft:player_killed_entity")
+
+//Sets the required entity type for the criteria. This is the entity that the player must kill.
+criteria.setEntityType("mod_lavacow:skeletonking")

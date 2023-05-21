@@ -1,0 +1,26 @@
+{
+	x: -5.0d,
+	y: -1.5d,
+	dependencies: [
+		"d9cdb07a"
+	],
+	tasks: [{
+		uid: "be853a87",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gemCoralium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gemCoralium"
+				}
+			}
+		}],
+		count: 27L
+	}]
+}

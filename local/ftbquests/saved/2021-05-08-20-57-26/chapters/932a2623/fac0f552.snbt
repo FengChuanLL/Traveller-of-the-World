@@ -1,0 +1,11 @@
+{
+	x: 13.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "00ecb206",
+		type: "item",
+		items: [{
+			item: "erebus:materials 1 59"
+		}]
+	}]
+}

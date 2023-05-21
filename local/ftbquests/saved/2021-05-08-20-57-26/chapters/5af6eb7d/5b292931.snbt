@@ -1,0 +1,18 @@
+{
+	x: -1.5d,
+	y: 26.0d,
+	text: [
+		"分布在主世界黑暗之地生物群系，生成在 Y=32 以下。其数量非常稀少。"
+	],
+	dependencies: [
+		"18b2b8d1"
+	],
+	tasks: [{
+		uid: "bb7709ac",
+		type: "observation",
+		icon: "abyssalcraft:abyore",
+		match_type: "block_id",
+		match: "abyssalcraft:abyore",
+		timer: 0L
+	}]
+}

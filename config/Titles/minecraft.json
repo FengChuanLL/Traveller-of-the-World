@@ -1,0 +1,34 @@
+{
+  "COMMON": [
+    "story/deflect_arrow",
+    "story/enchant_item",
+
+    "adventure/kill_a_mob",
+    "adventure/trade",
+    "adventure/shoot_arrow",
+
+    "nether/brew_potion",
+
+    "end/kill dragon"
+  ],
+  "UNCOMMON": [
+    "story/cure_zombie_villager",
+
+    "adventure/totem_of_undying",
+
+    "nether/create_full_beacon",
+
+    "end/respawn_dragon",
+    "end/elytra"
+  ],
+  "RARE": [
+    "husbandry/break_diamond_hoe",
+
+    "adventure/kill_all_mobs",
+    "adventure/sniper_duel",
+
+    "nether/all_potions",
+    "nether/all_effects"
+
+  ]
+}

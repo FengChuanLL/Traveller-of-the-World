@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: 10.5d,
+	dependencies: [
+		"f8c580da"
+	],
+	tasks: [{
+		uid: "e7cd1089",
+		type: "item",
+		items: [{
+			item: "sereneseasons:season_clock"
+		}]
+	}],
+	rewards: [{
+		uid: "11dee670",
+		type: "item",
+		item: "minecraft:item_frame"
+	}]
+}

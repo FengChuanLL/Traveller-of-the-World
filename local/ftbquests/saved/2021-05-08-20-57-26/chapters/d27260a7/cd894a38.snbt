@@ -1,0 +1,26 @@
+{
+	title: "便携存储",
+	x: -8.0d,
+	y: -11.0d,
+	text: [
+		"可以轻松应对越来越大的存储管理需求"
+	],
+	tasks: [{
+		uid: "05b16dd2",
+		type: "item",
+		items: [{
+			item: "storagenetwork:master"
+		}]
+	}],
+	rewards: [{
+		uid: "70380c28",
+		type: "item",
+		item: "storagenetwork:kabel",
+		count: 16
+	},
+	{
+		uid: "93b6da03",
+		type: "xp",
+		xp: 100
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	"mob_id": "iceandfire:*",
+	"attributes": [
+		{
+			"id": "generic.armor",
+			"modifier": {
+				"min": 10,
+				"max": 20
+			},
+			"is_flat": true,
+			"affected_by_difficulty": false,
+			"dimensions": [
+				0
+			]
+		}
+	]
+}

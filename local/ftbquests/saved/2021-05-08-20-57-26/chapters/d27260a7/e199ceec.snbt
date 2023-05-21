@@ -1,0 +1,45 @@
+{
+	x: 4.0d,
+	y: -17.0d,
+	dependencies: [
+		"c53218e6"
+	],
+	tasks: [{
+		uid: "f0b351d3",
+		type: "item",
+		items: [{
+			id: "naturescompass:naturescompass",
+			tag: {}
+		}]
+	}],
+	rewards: [{
+		uid: "ef3bb792",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:long_swiftness"
+			}
+		}
+	},
+	{
+		uid: "f8d86b9e",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:strong_swiftness"
+			}
+		}
+	},
+	{
+		uid: "c70cf136",
+		type: "item",
+		item: {
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:swiftness"
+			}
+		}
+	}]
+}

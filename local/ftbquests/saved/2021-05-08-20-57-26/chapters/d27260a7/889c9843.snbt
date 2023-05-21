@@ -1,0 +1,24 @@
+{
+	title: "更便捷的传送",
+	x: -8.0d,
+	y: 0.0d,
+	text: [
+		"能无视维度进行传送，比旅行者地图更好用！"
+	],
+	dependencies: [
+		"4581acc8"
+	],
+	tasks: [{
+		uid: "b1a13f6f",
+		type: "item",
+		items: [{
+			item: "warpbook:warpcluster"
+		}]
+	}],
+	rewards: [{
+		uid: "b4412e3a",
+		type: "item",
+		item: "minecraft:glass_bottle",
+		count: 12
+	}]
+}

@@ -1,0 +1,24 @@
+
+//Set icon item
+setIcon(<divinerpg:ancient_entity_statue>)
+
+//Set title String
+setTitle("远古之力")
+
+//Set description String
+setDescription("击败远古之力")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/yuangucanhai")
+
+//Set the position
+setPos(475,45)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "killed_spider" with the trigger type "minecraft:player_killed_entity". This function returns the criteria as an object
+criteria = addCriteria("killed_yuanguzhili", "minecraft:player_killed_entity")
+
+//Sets the required entity type for the criteria. This is the entity that the player must kill.
+criteria.setEntityType("divinerpg:ancient_entity")

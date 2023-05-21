@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: 14.5d,
+	dependencies: [
+		"28a29ab7"
+	],
+	tasks: [{
+		uid: "b48e5c99",
+		type: "item",
+		items: [{
+			id: "abyssalcraft:tieredenergypedestal",
+			tag: {
+				PotEnergy: 0.0f
+			},
+			Damage: 2s
+		}]
+	}]
+}

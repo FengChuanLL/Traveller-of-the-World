@@ -1,0 +1,22 @@
+{
+	title: "洞穴人拯救计划（不是",
+	icon: "prefab:item_moderate_house",
+	x: -1.5d,
+	y: -1.0d,
+	text: [
+		"厌倦了当穴居人吗？厌倦了住火柴盒吗？那就满足你的需求！"
+	],
+	dependencies: [
+		"4581acc8"
+	],
+	tasks: [{
+		uid: "dce4edbd",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "96f600a7",
+		type: "item",
+		team_reward: true,
+		item: "prefab:item_moderate_house"
+	}]
+}
