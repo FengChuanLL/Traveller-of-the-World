@@ -1,7 +1,0 @@
-{
-	title: "天境",
-	icon: "aether:aether_teleporter",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

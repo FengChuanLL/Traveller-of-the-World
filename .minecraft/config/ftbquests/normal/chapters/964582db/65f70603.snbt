@@ -1,0 +1,37 @@
+{
+	x: 22.5d,
+	y: 5.0d,
+	dependencies: [
+		"fd53cfce"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "fe9b2f44",
+		type: "item",
+		title: "桶",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Gengduotong"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Gengduotong"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "b9a59f78",
+		type: "item",
+		item: "iron_barrels:iron_to_gold_barrel_upgrade"
+	},
+	{
+		uid: "337889cf",
+		type: "item",
+		item: "iron_barrels:gold_to_diamond_barrel_upgrade"
+	}]
+}

@@ -1,0 +1,67 @@
+{
+	title: "全新的武器与工具",
+	disable_toast: 1b,
+	x: 15.0d,
+	y: 15.0d,
+	text: [
+		"造型非常的炫酷，在前中期非常有用"
+	],
+	dependencies: [
+		"b7421087"
+	],
+	or_tasks: 1b,
+	tasks: [{
+		uid: "9848061f",
+		type: "item",
+		items: [{
+			id: "nyx:meteor_sword",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ceb5021b",
+		type: "item",
+		title: "陨石工具",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Yunshitool"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Yunshitool"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b522aa6b",
+		type: "item",
+		items: [{
+			id: "nyx:meteor_bow",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "581dc49b",
+		type: "item",
+		items: [{
+			item: "nyx:meteor_hoe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

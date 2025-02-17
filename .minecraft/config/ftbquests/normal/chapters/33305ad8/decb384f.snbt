@@ -1,0 +1,32 @@
+{
+	title: "精炼珊瑚工具",
+	x: 0.0d,
+	y: 75.0d,
+	description: "&5荒芜之地&o",
+	dependencies: [
+		"c663afde"
+	],
+	hide: 1b,
+	or_tasks: 1b,
+	tasks: [{
+		uid: "2de21832",
+		type: "item",
+		title: "精炼珊瑚工具",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Jinglianshanhutool"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Jinglianshanhutool"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

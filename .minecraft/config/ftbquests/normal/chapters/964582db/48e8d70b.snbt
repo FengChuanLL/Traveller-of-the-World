@@ -1,0 +1,17 @@
+{
+	x: 25.0d,
+	y: 5.0d,
+	text: [
+		"造价昂贵，但这是异界旅者中容量&a最大&r的单个存储容器了"
+	],
+	dependencies: [
+		"65f70603"
+	],
+	tasks: [{
+		uid: "98656ae0",
+		type: "item",
+		items: [{
+			item: "iron_barrels:netherite_barrel"
+		}]
+	}]
+}

@@ -1,0 +1,43 @@
+{
+	title: "暴击机制改革",
+	icon: {
+		id: "minecraft:enchanted_book",
+		tag: {
+			StoredEnchantments: [{
+				id: 236s,
+				lvl: 3s
+			}]
+		}
+	},
+	x: 5.0d,
+	y: 0.0d,
+	text: [
+		"现在，跳劈&c&l不会&r再触发暴击，武器的普攻便可触发暴击",
+		"",
+		"&l暴击概率&r取决于&a玩家自身&r暴击几率+&a武器&r暴击几率(依靠&c暴击几率附魔&r逐级提升)",
+		"",
+		"&l暴击伤害&r取决于&a基础&r暴击伤害+&a武器&r暴击伤害(依靠&c暴击伤害附魔&r逐级提升)"
+	],
+	dependencies: [
+		"740fa385"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "68aa6744",
+		type: "checkmark",
+		title: "我理解了"
+	}],
+	rewards: [{
+		uid: "421e5109",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					id: 235s,
+					lvl: 1s
+				}]
+			}
+		}
+	}]
+}

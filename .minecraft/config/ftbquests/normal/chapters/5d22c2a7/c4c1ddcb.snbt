@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 65.0d,
+	description: "&d魔界&o",
+	dependencies: [
+		"de12e008"
+	],
+	hide: 1b,
+	or_tasks: 1b,
+	tasks: [{
+		uid: "f71f0c69",
+		type: "item",
+		items: [{
+			item: "legendera:flame_sword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

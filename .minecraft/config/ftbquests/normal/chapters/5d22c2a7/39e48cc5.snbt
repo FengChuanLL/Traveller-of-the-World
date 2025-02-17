@@ -1,0 +1,18 @@
+{
+	x: 45.0d,
+	y: -15.0d,
+	description: "&a主世界",
+	dependencies: [
+		"9e41c775"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "3b25c784",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:lance_iron"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

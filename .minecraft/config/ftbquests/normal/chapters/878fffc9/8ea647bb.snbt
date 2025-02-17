@@ -1,0 +1,19 @@
+{
+	title: "飞行与游戏崩溃",
+	icon: "minecraft:barrier",
+	x: 10.0d,
+	y: 0.0d,
+	text: [
+		"在设置中关闭&c快速运算&r可避免大部分飞行导致的游戏崩溃问题。"
+	],
+	dependencies: [
+		"ed542749"
+	],
+	hide: 1b,
+	size: 2.0d,
+	tasks: [{
+		uid: "07ab411f",
+		type: "checkmark",
+		title: "我理解了"
+	}]
+}

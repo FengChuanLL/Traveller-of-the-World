@@ -1,0 +1,8 @@
+{
+	title: "生存要素",
+	icon: "minecraft:log",
+	disable_toast: 1b,
+	always_invisible: 0b,
+	group: 0,
+	default_quest_shape: ""
+}

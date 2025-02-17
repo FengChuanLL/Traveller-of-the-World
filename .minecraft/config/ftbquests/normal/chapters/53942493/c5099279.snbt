@@ -1,0 +1,25 @@
+{
+	title: "击败霜星",
+	x: 85.0d,
+	y: -5.0d,
+	description: "&a此任务可重复完成领取奖励",
+	can_repeat: 1b,
+	dependencies: [
+		"c36293cb"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "31ea6ae9",
+		type: "kill",
+		icon: "divinerpg:frosted_glass",
+		entity: "legendera:frost_nova",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "cdf3cefa",
+		type: "xp",
+		auto: "enabled",
+		xp: 3000
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 75.0d,
+	description: "&e暮色森林&o",
+	dependencies: [
+		"d4f5e878"
+	],
+	hide: 1b,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "e48461ac",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_sword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

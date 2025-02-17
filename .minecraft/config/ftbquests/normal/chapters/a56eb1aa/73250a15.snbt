@@ -1,0 +1,17 @@
+{
+	title: "B站用户：菜特CaiTe",
+	x: 10.0d,
+	y: 15.0d,
+	text: [
+		"很有耐心的排查了整合包内存溢出和攻击回馈异常的问题"
+	],
+	size: 2.0d,
+	optional: 1b,
+	tasks: [{
+		uid: "b9b9c452",
+		type: "stat",
+		icon: "bountifulbaubles:trinketobsidianskull",
+		stat: "stat.mobKills",
+		value: 14824153
+	}]
+}

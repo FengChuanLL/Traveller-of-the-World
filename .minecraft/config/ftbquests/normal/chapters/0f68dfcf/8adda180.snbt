@@ -1,0 +1,62 @@
+{
+	title: "造访污秽之地",
+	icon: "defiledlands:dirt_defiled",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"生成在&c主世界&r的群系，整体风格为暗紫色",
+		"",
+		"造访任何种类的该群系都可以开启任务"
+	],
+	size: 3.0d,
+	or_tasks: 1b,
+	tasks: [{
+		uid: "42d64690",
+		type: "biome",
+		title: "造访任意污秽之地群系",
+		icon: "defiledlands:stone_defiled",
+		biome: "defiledlands:desert_defiled"
+	},
+	{
+		uid: "90c1750a",
+		type: "biome",
+		title: "造访任意污秽之地群系",
+		icon: "defiledlands:dirt_defiled",
+		biome: "defiledlands:plains_defiled"
+	},
+	{
+		uid: "9ac93c99",
+		type: "biome",
+		title: "造访任意污秽之地群系",
+		icon: "defiledlands:grass_defiled",
+		biome: "defiledlands:forest_tenebra"
+	},
+	{
+		uid: "2aeb6895",
+		type: "biome",
+		title: "造访任意污秽之地群系",
+		icon: "defiledlands:stone_defiled_decoration 1 2",
+		biome: "defiledlands:forest_vilespine"
+	},
+	{
+		uid: "611fa142",
+		type: "biome",
+		title: "造访任意污秽之地群系",
+		icon: "defiledlands:stone_defiled_decoration 1 3",
+		biome: "defiledlands:hills_defiled"
+	},
+	{
+		uid: "16685694",
+		type: "biome",
+		title: "造访任意污秽之地群系",
+		icon: "defiledlands:sand_defiled",
+		biome: "defiledlands:swamp_defiled"
+	},
+	{
+		uid: "8f88a237",
+		type: "biome",
+		title: "造访任意污秽之地群系",
+		icon: "defiledlands:gravel_defiled",
+		biome: "defiledlands:ice_plains_defiled"
+	}]
+}

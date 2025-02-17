@@ -1,0 +1,6 @@
+{
+  "parent": "heq:item/gold_bow",
+  "textures": {
+    "layer0": "heq:items/bows/gold_bow_pulling_2"
+  }
+}

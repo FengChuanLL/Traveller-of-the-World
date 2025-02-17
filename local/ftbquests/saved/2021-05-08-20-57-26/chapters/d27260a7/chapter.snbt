@@ -1,8 +1,0 @@
-{
-	title: "生存之道",
-	icon: "minecraft:grass",
-	disable_toast: true,
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

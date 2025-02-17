@@ -1,0 +1,14 @@
+tile.diamond_barrel.name=钻石桶
+item.obsidian_to_netherite_barrel_upgrade.name=黑曜石桶升级至下界合金桶
+subtitles.barrelopen=桶打开
+itemGroup.tabiron_barrels_creative_tab=铁桶
+item.gold_to_diamond_barrel_upgrade.name=金桶升级至钻石桶
+item.iron_to_gold_barrel_upgrade.name=铁桶升级至金桶
+tile.obsidian_barrel.name=黑曜石桶
+item.wood_to_iron_barrel_upgrade.name=木桶升级至铁桶
+tile.netherite_barrel.name=下界合金桶
+tile.iron_barrel.name=铁桶
+tile.barrel.name=桶
+tile.gold_barrel.name=金桶
+item.diamond_to_obsidian_barrel_upgrade.name=钻石桶升级至黑曜石桶
+subtitles.barrelclose=桶关闭

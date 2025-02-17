@@ -1,0 +1,17 @@
+{
+	x: 5.0d,
+	y: 65.0d,
+	dependencies: [
+		"0ac7c760"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "a04b9edf",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:goldenheart"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

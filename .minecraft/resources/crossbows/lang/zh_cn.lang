@@ -1,0 +1,21 @@
+item.crossbows.Crossbow.name=十字弩
+item.crossbows.crossbow.projectile=弹射物:
+
+subtitles.crossbows.item.crossbow.charge=弩蓄力
+subtitles.crossbows.item.crossbow.load=弩上弦
+subtitles.crossbows.item.crossbow.shoot=弩发射
+
+enchantment.crossbows.multishot=多重射击
+enchantment.crossbows.quickcharge=快速装填
+enchantment.crossbows.piercing=穿透
+
+enchantment.crossbows.multishot.desc=一次发射三支箭矢，但只消耗一支箭。
+enchantment.crossbows.quick_charge.desc=缩短弩的装填时间。
+enchantment.crossbows.piercing.desc=箭矢可以穿透多个实体。
+
+death.attack.crossbows.fireworks.player=%1$s 与 %2$s 战斗时炸成了烟花
+
+advancements.adventure.arbalistic.title=百步穿杨
+advancements.adventure.arbalistic.description=用一把弩射杀五种不同的生物
+advancements.adventure.ol_betsy.title=老贝茜
+advancements.adventure.ol_betsy.description=射出一把弩

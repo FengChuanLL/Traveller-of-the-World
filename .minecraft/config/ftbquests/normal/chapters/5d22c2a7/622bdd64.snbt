@@ -1,0 +1,25 @@
+{
+	x: -5.0d,
+	y: 75.0d,
+	description: "&e暮色森林&o",
+	dependencies: [
+		"c4c1ddcb"
+	],
+	hide: 1b,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "411ebe7d",
+		type: "item",
+		items: [{
+			id: "twilightforest:fiery_sword",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 20s
+				}]
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

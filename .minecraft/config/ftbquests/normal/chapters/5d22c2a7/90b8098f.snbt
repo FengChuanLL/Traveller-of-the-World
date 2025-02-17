@@ -1,0 +1,18 @@
+{
+	x: -25.0d,
+	y: 0.0d,
+	dependencies: [
+		"8f81e381",
+		"d5af87eb"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "64944f45",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:scythe_diamond"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

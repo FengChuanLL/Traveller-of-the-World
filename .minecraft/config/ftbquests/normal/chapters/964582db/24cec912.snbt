@@ -1,0 +1,31 @@
+{
+	x: 22.5d,
+	y: -5.0d,
+	text: [
+		"用于修改路标的工具",
+		"",
+		"路标钳可以用来校准路标指示牌所指的方向，如果你发现它的指向不准确的话；路标刷可对路标进行装饰"
+	],
+	dependencies: [
+		"ac1d6c06"
+	],
+	tasks: [{
+		uid: "10e97d9b",
+		type: "item",
+		title: "路标工具",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Gongju"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Gongju"
+				}
+			}
+		}]
+	}]
+}

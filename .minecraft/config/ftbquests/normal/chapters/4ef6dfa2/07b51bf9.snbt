@@ -1,0 +1,34 @@
+{
+	title: "月相查询",
+	x: 10.0d,
+	y: 0.0d,
+	text: [
+		"可以用于查询当前月相的时钟、传感器",
+		"",
+		"月相传感器只会在晚上发出红石信号",
+		"",
+		"在月相传感器中，满月的强度是8而不是1",
+		"",
+		"月相传感器会在血月/丰收之月下分别发出9/10强度的红石信号"
+	],
+	dependencies: [
+		"751ca6a4"
+	],
+	hide: 1b,
+	size: 2.0d,
+	or_tasks: 1b,
+	tasks: [{
+		uid: "91a2c095",
+		type: "item",
+		items: [{
+			item: "urkazmoontools:moonclock"
+		}]
+	},
+	{
+		uid: "9a8a0f0a",
+		type: "item",
+		items: [{
+			item: "urkazmoontools:moonsensor"
+		}]
+	}]
+}

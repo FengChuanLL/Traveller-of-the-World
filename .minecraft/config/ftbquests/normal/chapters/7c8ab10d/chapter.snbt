@@ -1,0 +1,7 @@
+{
+	title: "保持更新",
+	icon: "stupidthings:paper_bag_hat",
+	always_invisible: 0b,
+	group: -2020606007,
+	default_quest_shape: ""
+}

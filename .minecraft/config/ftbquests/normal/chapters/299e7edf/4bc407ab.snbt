@@ -1,0 +1,32 @@
+{
+	x: 15.0d,
+	y: 0.0d,
+	text: [
+		"让烹饪逐渐简单化"
+	],
+	dependencies: [
+		"cadba0a1"
+	],
+	hide: 1b,
+	or_tasks: 1b,
+	tasks: [{
+		uid: "108fde12",
+		type: "item",
+		title: "烹饪手册",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Pengrenshouce"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Pengrenshouce"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

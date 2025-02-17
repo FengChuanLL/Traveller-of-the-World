@@ -1,0 +1,40 @@
+{
+	x: 40.0d,
+	y: 0.0d,
+	size: 2.0d,
+	optional: 1b,
+	tasks: [{
+		uid: "db259cc2",
+		type: "item",
+		items: [{
+			id: "custommc:wqs9",
+			tag: {
+				Quality: {
+					Slots: [
+						"mainhand"
+					],
+					Color: "aqua",
+					AttributeModifiers: [{
+						Amount: 0.15000000596046448d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						UUIDMost: 2508893252993633943L,
+						UUIDLeast: -6098426264912675055L,
+						Name: "qualitytools"
+					},
+					{
+						Amount: 0.15000000596046448d,
+						AttributeName: "generic.attackSpeed",
+						Operation: 2,
+						UUIDMost: -5954992990450466267L,
+						UUIDLeast: -8755612837262535388L,
+						Name: "qualitytools"
+					}],
+					Name: "quality.graceful.name"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

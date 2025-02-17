@@ -1,0 +1,20 @@
+{
+	x: 10.0d,
+	y: 25.0d,
+	dependencies: [
+		"9e17fc77"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "8ed9d0b4",
+		type: "item",
+		items: [{
+			id: "spartannetherite:shield_tower_netherite",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

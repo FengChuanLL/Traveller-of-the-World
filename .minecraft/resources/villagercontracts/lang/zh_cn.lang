@@ -1,0 +1,10 @@
+# Config
+config.villagercontracts:validcontracts=有效合同
+
+# Items
+item.villagercontracts:contract.name=村民合同
+
+# Tooltips
+tooltip.villagercontracts:desc=在铁砧上重命名以指定村民的职业
+tooltip.villagercontracts:info=按住 §bSHIFT§7 显示可以使用的名字
+tooltip.villagercontracts:naming=有效的合同名称:

@@ -1,0 +1,31 @@
+{
+	title: "陨石套装",
+	disable_toast: 1b,
+	x: 10.0d,
+	y: 19.5d,
+	dependencies: [
+		"b7421087"
+	],
+	or_tasks: 1b,
+	tasks: [{
+		uid: "112cddd0",
+		type: "item",
+		title: "陨石套装",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Yunshi"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Yunshi"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

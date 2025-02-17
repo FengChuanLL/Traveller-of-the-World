@@ -1,0 +1,18 @@
+{
+	x: 12.5d,
+	y: -5.0d,
+	text: [
+		"可&c烧制皮革&r"
+	],
+	dependencies: [
+		"fd53cfce"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "2159bfd3",
+		type: "item",
+		items: [{
+			item: "jrftl:prepared_flesh"
+		}]
+	}]
+}

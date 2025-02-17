@@ -1,0 +1,37 @@
+{
+	x: 45.0d,
+	y: 5.0d,
+	text: [
+		"可以强制将村民转职的物品",
+		"",
+		"在铁砧上修改合同的名字&c(英文名)&r，对着村民使用以使其转职",
+		"",
+		"有效的名称：",
+		"Armorer (盔甲商)",
+		"Butcher (屠夫)",
+		"Cartographer (制图师)",
+		"Cleric (牧师)",
+		"Farmer (农民)",
+		"Fisherman (渔夫)",
+		"Fletcher (制箭师)",
+		"Homer (傻子)",
+		"Leatherworker (皮匠)",
+		"Librarian (图书管理员) ",
+		"Shepherd (牧羊人)",
+		"Tool Smith (工具商)",
+		"Weapon Smith (武器商)"
+	],
+	dependencies: [
+		"c5d3349f"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "7dcc0f86",
+		type: "item",
+		items: [{
+			item: "villagercontracts:contract"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

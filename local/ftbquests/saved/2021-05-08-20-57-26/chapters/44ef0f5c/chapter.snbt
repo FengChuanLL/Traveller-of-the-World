@@ -1,7 +1,0 @@
-{
-	title: "暮色森林",
-	icon: "twilightforest:trophy",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

@@ -1,0 +1,10 @@
+#entities
+entity.Guulfish.name=咕噜鱼
+entity.Fishbones.name=骨鱼
+entity.BoneTrout.name=骨鳟
+entity.FossorsLure.name=巨型亡灵安康鱼
+
+fishesrise:subtitles.fossor.bite=巨型亡灵安康鱼 噬咬
+fishesrise:subtitles.guulfish.bite=咕噜鱼 噬咬
+fishesrise:subtitles.guulfish.growl=咕噜鱼 咆哮
+fishesrise:subtitles.guulfish.beam=咕噜鱼 充能魔法

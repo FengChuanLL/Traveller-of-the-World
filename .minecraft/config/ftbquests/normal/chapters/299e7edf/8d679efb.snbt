@@ -1,0 +1,23 @@
+{
+	title: "美味乐事",
+	icon: "deliciousdelights:vanilla_ice_cream_5",
+	x: 10.0d,
+	y: 10.0d,
+	text: [
+		"甜食的天堂！",
+		"",
+		"在JEI中使用 @delicious 来查询多达600多种美味甜食的配方！",
+		"",
+		"也可在农贸市场中购买一些种子"
+	],
+	dependencies: [
+		"9174d344"
+	],
+	hide: 1b,
+	size: 2.0d,
+	tasks: [{
+		uid: "e9edd7af",
+		type: "checkmark",
+		title: "我理解了"
+	}]
+}

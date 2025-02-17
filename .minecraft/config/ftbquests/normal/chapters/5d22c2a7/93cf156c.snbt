@@ -1,0 +1,21 @@
+{
+	title: "镰之篇",
+	icon: "legendera:soul_reaping_sickle",
+	x: -10.0d,
+	y: 0.0d,
+	text: [
+		"这里是特殊武器——镰的路线",
+		"",
+		"&c注：该路线有待完善，请勿在前期投入材料制作"
+	],
+	dependencies: [
+		"5807a799"
+	],
+	hide: 1b,
+	size: 2.0d,
+	tasks: [{
+		uid: "c7b16695",
+		type: "checkmark",
+		title: "我理解了"
+	}]
+}

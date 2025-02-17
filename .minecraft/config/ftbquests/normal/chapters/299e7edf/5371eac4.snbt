@@ -1,0 +1,43 @@
+{
+	title: "一些美味甜食",
+	x: 20.0d,
+	y: 10.0d,
+	dependencies: [
+		"c0b0ff87"
+	],
+	tasks: [{
+		uid: "6de84648",
+		type: "item",
+		items: [{
+			item: "deliciousdelights:chocolate_ice_cream_4"
+		}]
+	},
+	{
+		uid: "17505d92",
+		type: "item",
+		items: [{
+			item: "deliciousdelights:neapolitan_ice_cream_cone_5"
+		}]
+	},
+	{
+		uid: "03f024f5",
+		type: "item",
+		items: [{
+			item: "deliciousdelights:mint_chocolate_chip_milkshake"
+		}]
+	},
+	{
+		uid: "d43b5f77",
+		type: "item",
+		items: [{
+			item: "deliciousdelights:hot_fudge_sundae"
+		}]
+	},
+	{
+		uid: "7d6cf8fa",
+		type: "item",
+		items: [{
+			item: "deliciousdelights:whole_chocolate_pie"
+		}]
+	}]
+}

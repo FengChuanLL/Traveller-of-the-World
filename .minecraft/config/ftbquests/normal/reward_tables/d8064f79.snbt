@@ -1,0 +1,232 @@
+{
+	title: "神秘物品",
+	icon: "minecraft:diamond",
+	loot_size: 1,
+	use_title: 1b,
+	rewards: [{
+		item: {
+			id: "stupidthings:anvil_backpack",
+			tag: {
+				Quality: {
+					Slots: [
+						"chest"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						Amount: 0.5d,
+						AttributeName: "generic.knockbackResistance",
+						Operation: 0,
+						UUIDMost: 274411065984305268L,
+						UUIDLeast: -6373355005300368747L,
+						Name: "qualitytools"
+					}],
+					Name: "quality.solid.name"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "acid",
+				Amount: 1000
+			}
+		}
+	},
+	{
+		item: "stupidthings:reverse_tnt"
+	},
+	{
+		item: "stupidthings:rail_explosive"
+	},
+	{
+		item: "stupidthings:cooler"
+	},
+	{
+		item: "stupidthings:heater"
+	},
+	{
+		item: "stupidthings:gravity_accelerator"
+	},
+	{
+		item: "stupidthings:pet_rock"
+	},
+	{
+		auto: "no_toast",
+		stage: "",
+		type: "gamestage"
+	},
+	{
+		item: "stupidthings:mine_turtle"
+	},
+	{
+		item: "stupidthings:hidden_light"
+	},
+	{
+		item: {
+			id: "stupidthings:paper_bag_hat",
+			tag: {
+				Quality: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "stupidthings:target_chestplate",
+			tag: {
+				Quality: {}
+			}
+		}
+	},
+	{
+		item: "stupidthings:rubber_chicken"
+	},
+	{
+		item: "stupidthings:pocket_sand"
+	},
+	{
+		item: {
+			id: "stupidthings:propeller_hat",
+			tag: {
+				Quality: {
+					Slots: [
+						"head"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						Amount: 0.5d,
+						AttributeName: "generic.armor",
+						Operation: 0,
+						UUIDMost: 400193476260153149L,
+						UUIDLeast: -5191114268575115274L,
+						Name: "qualitytools"
+					}],
+					Name: "quality.protective.name"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "stupidthings:upside_down_goggles",
+			tag: {
+				Quality: {}
+			}
+		}
+	},
+	{
+		item: {
+			id: "stupidthings:invisible_helmet",
+			tag: {
+				Quality: {
+					Slots: [
+						"head"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						Amount: 1.0d,
+						AttributeName: "generic.armorToughness",
+						Operation: 0,
+						UUIDMost: -390704311142037106L,
+						UUIDLeast: -6106016155966221808L,
+						Name: "qualitytools"
+					}],
+					Name: "quality.tough.name"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "stupidthings:invisible_chestplate",
+			tag: {
+				Quality: {
+					Slots: [
+						"chest"
+					],
+					Color: "red",
+					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						AttributeName: "generic.movementSpeed",
+						Operation: 2,
+						UUIDMost: 8236657396982828364L,
+						UUIDLeast: -5033758893888761842L,
+						Name: "qualitytools"
+					}],
+					Name: "quality.heavy.name"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "stupidthings:invisible_leggings",
+			tag: {
+				Quality: {
+					Slots: [
+						"legs"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						Amount: 0.5d,
+						AttributeName: "generic.armor",
+						Operation: 0,
+						UUIDMost: 7479007830821457184L,
+						UUIDLeast: -8388897557827605224L,
+						Name: "qualitytools"
+					}],
+					Name: "quality.protective.name"
+				}
+			}
+		}
+	},
+	{
+		item: {
+			id: "stupidthings:invisible_boots",
+			tag: {
+				Quality: {
+					Slots: [
+						"feet"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						Amount: 1.0d,
+						AttributeName: "potioncore.magicShielding",
+						Operation: 0,
+						UUIDMost: -715029780760476345L,
+						UUIDLeast: -8647633141676711773L,
+						Name: "qualitytools"
+					}],
+					Name: "quality.arcane.name"
+				}
+			}
+		}
+	},
+	{
+		item: "stupidthings:firing_can"
+	},
+	{
+		item: {
+			id: "stupidthings:cactus_sword",
+			tag: {
+				Quality: {}
+			}
+		}
+	},
+	{
+		item: "stupidthings:worlds_smallest_violin"
+	},
+	{
+		item: "stupidthings:block_bomb_launcher"
+	},
+	{
+		item: "stupidthings:balloon_lava"
+	},
+	{
+		item: "stupidthings:balloon_water"
+	},
+	{
+		item: "stupidthings:smoke_bomb"
+	}]
+}

@@ -1,0 +1,15 @@
+# Materials
+material.spartannetherite:netherite=下界合金
+material.spartannetherite:ingotNetherite=下界合金锭
+
+# Items
+item.spartannetherite:shield_basic_netherite.name=下界合金镶板盾
+item.spartannetherite:shield_tower_netherite.name=下界合金塔盾
+
+# JEI
+jei.spartannetherite:anvil_craft.info=通过在铁砧上结合一把同等的钻石武器、一枚下界合金锭和 8 级经验进行合成。
+
+# Tooltips
+tooltip.spartannetherite:materialbonus=材料加成
+tooltip.spartannetherite:fireproof=耐火
+tooltip.spartannetherite:fireproof.desc=掉落在火或熔岩中不会被摧毁

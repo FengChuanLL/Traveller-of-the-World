@@ -1,0 +1,30 @@
+{
+	x: 20.0d,
+	y: 15.0d,
+	dependencies: [
+		"013c0df9"
+	],
+	hide: 1b,
+	or_tasks: 1b,
+	tasks: [{
+		uid: "2543344f",
+		type: "item",
+		title: "开发者武器",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Kaifazhewuqi"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Kaifazhewuqi"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

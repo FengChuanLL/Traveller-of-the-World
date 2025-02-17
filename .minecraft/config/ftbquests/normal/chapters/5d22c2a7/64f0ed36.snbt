@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: -45.0d,
+	description: "&9末地",
+	dependencies: [
+		"66bad424"
+	],
+	hide: 1b,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "5390782b",
+		type: "item",
+		items: [{
+			item: "spartanfire:greatsword_fire_dragonbone"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

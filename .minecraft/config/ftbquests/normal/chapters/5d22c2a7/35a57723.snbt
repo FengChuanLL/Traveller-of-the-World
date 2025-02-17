@@ -1,0 +1,18 @@
+{
+	x: 25.0d,
+	y: -15.0d,
+	description: "&a主世界",
+	dependencies: [
+		"9e41c775"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "8544a802",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:pike_iron"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

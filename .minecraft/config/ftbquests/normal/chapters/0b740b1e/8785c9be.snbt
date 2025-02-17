@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: 0.0d,
+	size: 2.0d,
+	optional: 1b,
+	tasks: [{
+		uid: "742bf27f",
+		type: "item",
+		items: [{
+			item: "custommc:wqs6"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

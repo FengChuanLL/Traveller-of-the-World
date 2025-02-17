@@ -1,0 +1,18 @@
+{
+	x: 5.0d,
+	y: 65.0d,
+	description: "&d魔界&o",
+	dependencies: [
+		"de12e008"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "8c38208b",
+		type: "item",
+		items: [{
+			item: "legendera:light_adjudication"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

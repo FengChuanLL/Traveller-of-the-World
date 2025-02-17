@@ -1,0 +1,55 @@
+{
+	title: "一些工具",
+	x: 15.5d,
+	y: 10.0d,
+	text: [
+		"在你制作食物的过程中可能会用到哦"
+	],
+	dependencies: [
+		"8d679efb"
+	],
+	hide: 1b,
+	or_tasks: 1b,
+	tasks: [{
+		uid: "814d8dd8",
+		type: "item",
+		items: [{
+			item: "deliciousdelights:grater"
+		}]
+	},
+	{
+		uid: "a3bddce5",
+		type: "item",
+		items: [{
+			item: "deliciousdelights:spigot"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "db5b6491",
+		type: "item",
+		items: [{
+			id: "deliciousdelights:knife",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0ff0a5b1",
+		type: "item",
+		items: [{
+			item: "deliciousdelights:mortar"
+		}]
+	},
+	{
+		uid: "4c4edeac",
+		type: "item",
+		items: [{
+			item: "deliciousdelights:empty_tea_bag"
+		}]
+	}]
+}

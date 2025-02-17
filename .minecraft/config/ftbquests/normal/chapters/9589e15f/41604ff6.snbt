@@ -1,0 +1,20 @@
+{
+	x: 95.0d,
+	y: -10.0d,
+	text: [
+		"可修复任何物品耐久的工具"
+	],
+	dependencies: [
+		"2cfdd1ee"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "d61c09b2",
+		type: "item",
+		items: [{
+			item: "theaurorian:absorptionorb"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

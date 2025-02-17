@@ -1,0 +1,34 @@
+{
+	title: "特兰套",
+	x: 25.0d,
+	y: 35.0d,
+	description: "&a主世界&o",
+	text: [
+		"全套给予&c永久&r急迫3效果"
+	],
+	dependencies: [
+		"132310ac"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "8961aeb0",
+		type: "item",
+		title: "特兰套",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Telan"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Telan"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

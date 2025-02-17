@@ -1,0 +1,31 @@
+{
+	x: 5.0d,
+	y: 20.0d,
+	description: "&d三级饰品",
+	dependencies: [
+		"f0fc4cbb"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "56fd766a",
+		type: "item",
+		items: [{
+			id: "xat:poison_stone",
+			ForgeCaps: {
+				"xat:trinket": {
+					slot: -1,
+					target: -1,
+					alt.ability: 0b,
+					player.status: -1,
+					exp: 0,
+					hitcount: 0,
+					mana: 0,
+					main.ability: 0b,
+					handler: 0
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

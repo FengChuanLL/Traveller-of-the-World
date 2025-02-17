@@ -1,0 +1,15 @@
+tile.ore_coal.name=末地煤矿石
+tile.ore_iron.name=末地铁矿石
+tile.ore_gold.name=末地金矿石
+tile.ore_lapis.name=末地青金石矿石
+tile.ore_redstone.name=末地红石矿石
+tile.ore_diamond.name=末地钻石矿石
+tile.ore_emerald.name=末地绿宝石矿石
+
+tile.nether_ore_coal.name=下界煤矿石
+tile.nether_ore_iron.name=下界铁矿石
+tile.nether_ore_gold.name=下界金矿石
+tile.nether_ore_lapis.name=下界青金石矿石
+tile.nether_ore_redstone.name=下界红石矿石
+tile.nether_ore_diamond.name=下界钻石矿石
+tile.nether_ore_emerald.name=下界绿宝石矿石

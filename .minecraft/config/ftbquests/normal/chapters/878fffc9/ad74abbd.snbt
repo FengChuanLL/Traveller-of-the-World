@@ -1,0 +1,22 @@
+{
+	title: "我该如何挽救我的存档呢？",
+	icon: "minecraft:barrier",
+	x: -10.0d,
+	y: -10.0d,
+	text: [
+		"备份的存档以&c压缩包&r形式存放在&cbackup&r文件夹中，请前往游戏根目录进行寻找",
+		"",
+		"游戏存档文件夹saves与游戏自动备份机制无任何关系，saves中的压缩包为游戏自身做的备份，可将其放心删除，backup文件夹的存档完全可取代它们"
+	],
+	dependencies: [
+		"ed542749"
+	],
+	hide: 1b,
+	size: 2.0d,
+	optional: 1b,
+	tasks: [{
+		uid: "7084e1ec",
+		type: "checkmark",
+		title: "我理解了"
+	}]
+}

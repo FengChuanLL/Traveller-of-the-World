@@ -1,0 +1,16 @@
+{
+	x: 40.0d,
+	y: -10.0d,
+	dependencies: [
+		"27523cf2"
+	],
+	tasks: [{
+		uid: "85e39da9",
+		type: "item",
+		items: [{
+			item: "divinerpg:wizards_book"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

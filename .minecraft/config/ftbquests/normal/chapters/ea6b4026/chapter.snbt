@@ -1,0 +1,7 @@
+{
+	title: "农业拓展",
+	icon: "minecraft:wheat",
+	always_invisible: 0b,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,27 @@
+
+//Set icon item
+setIcon(<divinerpg:awakened_halite_chestplate>)
+
+//Set title String
+setTitle("山顶巅峰")
+
+//Set description String
+setDescription("获得完整的觉醒岩晶套")
+
+//Add a parent advancement. The syntax is "modid:folder/path/to/the/advancement/then/filename"
+addParent("triumph:tow/mijie")
+
+//Set the position
+setPos(1575,-55)
+
+//Hide the connection lines, so I can have a pretty shape
+hideLines(false)
+
+//Adds criteria named "hasFlint" with the trigger type "minecraft:inventory_changed". This function returns the criteria as an object
+criteria = addCriteria("juexingyanjing", "minecraft:inventory_changed")
+
+//Adds the required item for the criteria. This is the item that needs to be in the player inventory.
+criteria.addItem(<divinerpg:awakened_halite_helmet>)
+criteria.addItem(<divinerpg:awakened_halite_chestplate>)
+criteria.addItem(<divinerpg:awakened_halite_leggings>)
+criteria.addItem(<divinerpg:awakened_halite_boots>)

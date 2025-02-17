@@ -1,0 +1,19 @@
+{
+	x: -45.0d,
+	y: -95.0d,
+	description: "&6黑金&o",
+	dependencies: [
+		"566af3a4"
+	],
+	hide: 1b,
+	size: 2.0d,
+	tasks: [{
+		uid: "c3f344d0",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:longsword_invar"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

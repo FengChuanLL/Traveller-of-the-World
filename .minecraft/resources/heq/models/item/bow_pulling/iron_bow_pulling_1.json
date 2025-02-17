@@ -1,0 +1,6 @@
+{
+  "parent": "heq:item/iron_bow",
+  "textures": {
+    "layer0": "heq:items/bows/iron_bow_pulling_1"
+  }
+}

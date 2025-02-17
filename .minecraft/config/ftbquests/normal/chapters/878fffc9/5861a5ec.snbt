@@ -1,0 +1,21 @@
+{
+	title: "难以解决的问题",
+	icon: "minecraft:barrier",
+	x: -10.0d,
+	y: 0.0d,
+	text: [
+		"如果遇到了难以解决的问题、bug，请在MC百科的页面及时进行反馈，作者会及时回复",
+		"",
+		"https://www.mcmod.cn/modpack/443.html"
+	],
+	dependencies: [
+		"ed542749"
+	],
+	hide: 1b,
+	size: 2.0d,
+	tasks: [{
+		uid: "ea85d0a8",
+		type: "checkmark",
+		title: "我理解了"
+	}]
+}

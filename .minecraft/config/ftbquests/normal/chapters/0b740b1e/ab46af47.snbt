@@ -1,0 +1,31 @@
+{
+	title: "帝王特使套",
+	x: 20.0d,
+	y: 10.0d,
+	text: [
+		"觐见帝王"
+	],
+	size: 2.0d,
+	optional: 1b,
+	tasks: [{
+		uid: "425c8e55",
+		type: "item",
+		title: "帝王特使套",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Diwang"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Diwang"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,7 @@
+enchantment.critchance=暴击概率
+enchantment.critchance.desc=增加暴击概率
+enchantment.criteffect=暴击伤害
+enchantment.criteffect.desc=增加暴击造成的伤害
+
+enchantment.modification-of-critical-hit.critchance.desc=增加攻击的暴击概率
+enchantment.modification-of-critical-hit.criteffect.desc=增加暴击造成的伤害

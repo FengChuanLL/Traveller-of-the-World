@@ -1,0 +1,38 @@
+{
+	title: "亡灵崛起",
+	icon: "mod_lavacow:intestine",
+	x: -10.0d,
+	y: -10.0d,
+	dependencies: [
+		"c2aebdcf"
+	],
+	hide: 1b,
+	size: 2.0d,
+	optional: 1b,
+	tasks: [{
+		uid: "f5f28b40",
+		type: "item",
+		title: "钻石块套",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Zuanshikuai"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Zuanshikuai"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "128eb568",
+		type: "checkmark",
+		title: "重新获取进度"
+	}]
+}

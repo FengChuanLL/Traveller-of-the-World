@@ -1,0 +1,21 @@
+{
+	x: -25.0d,
+	y: -75.0d,
+	description: "&5恐惧之地",
+	dependencies: [
+		"e6195d5d",
+		"a371b211",
+		"69cd4930"
+	],
+	hide: 1b,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "4c273d1f",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:saber_platinum"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

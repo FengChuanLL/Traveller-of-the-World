@@ -1,0 +1,16 @@
+{
+	x: -25.0d,
+	y: -65.0d,
+	dependencies: [
+		"84e5344f"
+	],
+	tasks: [{
+		uid: "1bf06364",
+		type: "item",
+		items: [{
+			item: "spartantwilight:saber_fiery"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

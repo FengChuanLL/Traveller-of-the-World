@@ -1,0 +1,18 @@
+{
+	x: -5.0d,
+	y: 20.0d,
+	description: "&a主世界&o",
+	dependencies: [
+		"fc899a69"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "5e005c21",
+		type: "item",
+		items: [{
+			item: "divinerpg:corrupted_cannon"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

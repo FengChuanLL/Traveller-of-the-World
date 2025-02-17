@@ -1,0 +1,19 @@
+{
+	x: 25.0d,
+	y: -95.0d,
+	description: "&6黑金&o",
+	dependencies: [
+		"4a79f0cd"
+	],
+	hide: 1b,
+	size: 2.0d,
+	tasks: [{
+		uid: "06875724",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:pike_invar"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

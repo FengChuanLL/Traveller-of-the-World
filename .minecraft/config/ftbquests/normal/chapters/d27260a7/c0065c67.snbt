@@ -1,0 +1,18 @@
+{
+	title: "更好的内衬",
+	icon: "armorunder:flipflop_goo",
+	x: 90.0d,
+	y: -7.5d,
+	text: [
+		"将内衬与&a&l凝胶&r再次合成，可针对&c极寒&r、&c极热&r天气做更好的适配"
+	],
+	dependencies: [
+		"52b497de"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "de3dda82",
+		type: "checkmark",
+		title: "我理解了"
+	}]
+}

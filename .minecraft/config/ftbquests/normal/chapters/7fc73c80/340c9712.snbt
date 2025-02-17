@@ -1,0 +1,24 @@
+{
+	title: "击败莫克文",
+	x: 160.0d,
+	y: 72.5d,
+	description: "&a此任务可重复完成领取奖励",
+	can_repeat: 1b,
+	dependencies: [
+		"5f65f83b"
+	],
+	optional: 1b,
+	tasks: [{
+		uid: "bad2fac2",
+		type: "kill",
+		icon: "divinerpg:mortum_blade",
+		entity: "divinerpg:vamacheron",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "bac7febf",
+		type: "xp",
+		auto: "enabled",
+		xp: 10000
+	}]
+}

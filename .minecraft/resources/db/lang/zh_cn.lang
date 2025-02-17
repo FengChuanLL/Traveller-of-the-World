@@ -1,0 +1,38 @@
+tile.disappearing_spawner.name=Disappearing Spawner
+tile.mega_structure_block.name=巨型结构方块
+tile.temple_brick.name=神庙砖块
+tile.temple_brick_stairs.name=神庙砖楼梯
+tile.temple_brick_slab_half.name=神庙砖台阶
+tile.temple_brick_slab_double.name=双层神庙台阶
+tile.temple_cobble_slab_half.name=神庙鹅卵石台阶
+tile.temple_cobble_slab_double.name=双层神庙圆石台阶
+tile.temple_pillar.name=神庙柱
+tile.temple_polish.name=磨制神庙砖块
+tile.temple_cobble.name=神庙圆石
+tile.temple_gold_brick.name=金质神庙砖块
+tile.gold_chisle_brick.name=金质雕刻砖块
+tile.temple_chisle_brick.name=神庙雕刻砖块
+tile.temple_lamp.name=神庙灯
+
+entity.hierophant.name=圣职者
+entity.claw.name=破旧爪形陷阱
+entity.static_box.name=Claw's Grasp
+entity.entity_aura.name=Hierophants Glance
+entity.entity_jail.name=Hierophant's Jail Cell
+entity.claw_two.name=Claw Trap
+
+item.orb.name=怪异之球
+item.staff.name=被遗忘者之杖
+
+entity.thrall.name=索尔
+entity.hiero_spike.name= Hierophant's Spike
+entity.hiero_spike_up.name=Hierophant's Spike
+
+death.attack.db:maelstrom=%1$s succumbed to the void
+death.attack.db:mobMaelstrom=%1$s was killed by a %2$s
+death.attack.db:playerMaelstrom=%1$s was killed by %2$s
+death.attack.db:thrownMaelstrom=%1$s was pummeled to death by a %2$s
+death.attack.db:explosionMaelstrom=%1$s was blown up
+death.attack.db:explosionMaelstrom.player=%1$s was blown up while fighting a %2$s
+death.attack.db:magicMaelstrom=%1$s was magicked by a %2$s
+db.desc.staff_desc=A mysterious staff that seems to hold some of the power the Hierophant uses, long lost, long forgotten...

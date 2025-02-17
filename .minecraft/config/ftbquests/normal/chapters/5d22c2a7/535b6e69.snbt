@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: 100.0d,
+	description: "&5荒芜之地&o",
+	dependencies: [
+		"01fbb3fa"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "402c4369",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:corsword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "保持更新",
+	icon: "storagenetwork:upgrade",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"检查整合包版本是否为最新，特别是当你遇到了一些恶性问题的时候。",
+		"",
+		"整合包会以较高的更新频率修复BUG，特别是非常影响游戏体验的问题。",
+		"",
+		"可前往官方原帖地址找到最新的下载链接",
+		"",
+		"升级整合包版本可参考官方原帖地址的存档迁移方法"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "ac624764",
+		type: "checkmark",
+		title: "我理解了"
+	}],
+	rewards: [{
+		uid: "c8bec0c3",
+		type: "item",
+		item: "quark:diamond_heart"
+	}]
+}

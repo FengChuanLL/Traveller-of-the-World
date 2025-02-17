@@ -1,9 +1,0 @@
-<signpost:blockbase>.addTooltip("基础地标石");
-<signpost:blockbasemodel0>.addTooltip("将地标石单独放入工作台以改变外观");
-<signpost:blockbasemodel1>.addTooltip("将地标石单独放入工作台以改变外观");
-<signpost:blockbasemodel2>.addTooltip("将地标石单独放入工作台以改变外观");
-<signpost:blockbasemodel3>.addTooltip("将地标石单独放入工作台以改变外观");
-<signpost:blockbasemodel4>.addTooltip("将地标石单独放入工作台以改变外观");
-<signpost:blockbasemodel5>.addTooltip("将地标石单独放入工作台以改变外观");
-<signpost:blockbasemodel6>.addTooltip("将地标石单独放入工作台以改变外观");
-<signpost:blockbasemodel7>.addTooltip("将地标石单独放入工作台以改变外观");

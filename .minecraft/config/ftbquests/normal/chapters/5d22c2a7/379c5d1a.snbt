@@ -1,0 +1,20 @@
+{
+	x: -20.0d,
+	y: 40.0d,
+	description: "&c下界&o",
+	dependencies: [
+		"1e76e7a7",
+		"306aee70"
+	],
+	hide: 1b,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "f004be15",
+		type: "item",
+		items: [{
+			item: "divinerpg:bloodgem_sword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}
