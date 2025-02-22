@@ -1,0 +1,18 @@
+{
+	x: -45.0d,
+	y: 0.0d,
+	dependencies: [
+		"9910ccc3"
+	],
+	hide: 1b,
+	size: 2.0d,
+	tasks: [{
+		uid: "65988445",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:scythe_invar"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

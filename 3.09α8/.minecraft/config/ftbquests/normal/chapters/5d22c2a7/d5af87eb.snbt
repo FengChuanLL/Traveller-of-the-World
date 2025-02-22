@@ -1,0 +1,17 @@
+{
+	x: -20.0d,
+	y: 5.0d,
+	dependencies: [
+		"500cc197"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "d93f9e72",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:reapers_scythe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

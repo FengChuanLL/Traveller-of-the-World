@@ -1,0 +1,18 @@
+{
+	x: -35.0d,
+	y: 0.0d,
+	dependencies: [
+		"52c51e81",
+		"bc3700e2"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "b7efb58d",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:scythe_platinum"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

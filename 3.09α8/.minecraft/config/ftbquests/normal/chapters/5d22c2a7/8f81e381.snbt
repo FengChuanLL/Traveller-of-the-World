@@ -1,0 +1,17 @@
+{
+	x: -20.0d,
+	y: -5.0d,
+	dependencies: [
+		"eefe24aa"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "ae1654dc",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:skeletonking_mace"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

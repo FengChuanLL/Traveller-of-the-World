@@ -1,0 +1,17 @@
+{
+	x: -40.0d,
+	y: 0.0d,
+	dependencies: [
+		"89d3e751"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "8fd82cb2",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:scythe_electrum"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}
