@@ -1,0 +1,20 @@
+{
+	x: 95.0d,
+	y: 5.0d,
+	text: [
+		"非常炫酷！",
+		"",
+		"&c&l它只有装饰作用，并无下界门以外的任何其他的功能！&r"
+	],
+	dependencies: [
+		"6ecbdaf5"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "099d4af6",
+		type: "item",
+		items: [{
+			item: "prefab:item_nether_gate"
+		}]
+	}]
+}

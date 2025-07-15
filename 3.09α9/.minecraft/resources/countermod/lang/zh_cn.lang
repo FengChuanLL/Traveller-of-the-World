@@ -1,0 +1,31 @@
+# 控制
+key.countermod.openmenu=打开计数器设置
+key.categories.countermod=计数器模组
+
+# GUI 选项
+gui.countermod.overlay=显示叠加层
+gui.countermod.days=显示天数
+gui.countermod.deaths=显示死亡次数
+gui.countermod.time=显示时间
+gui.countermod.position=叠加层位置
+gui.countermod.overlay_style=叠加层样式
+gui.countermod.death_icon_style=死亡图标样式
+gui.countermod.time_icon_style=时间图标样式
+gui.countermod.deathsound=死亡音效
+gui.countermod.deathsound.volume=音效音量
+gui.countermod.close=关闭
+
+# 选项值
+gui.countermod.on=开启
+gui.countermod.off=关闭
+gui.countermod.random=随机
+
+# 叠加层位置
+overlay.position.TOP_LEFT=左上角
+overlay.position.TOP_RIGHT=右上角
+overlay.position.BOTTOM_LEFT=左下角
+overlay.position.BOTTOM_RIGHT=右下角
+overlay.position.TOP_LEFT_HORIZONTAL=左上角（横向）
+overlay.position.TOP_RIGHT_HORIZONTAL=右上角（横向）
+overlay.position.BOTTOM_LEFT_HORIZONTAL=左下角（横向）
+overlay.position.BOTTOM_RIGHT_HORIZONTAL=右下角（横向）

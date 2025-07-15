@@ -1,0 +1,17 @@
+entity.traders.wandering_trader.name=流浪商人
+entity.traders.trader_llama.name=商人羊驼
+
+subtitles.traders.entity.wandering_trader.ambient=流浪商人喃喃自语
+subtitles.traders.entity.wandering_trader.death=流浪商人死亡
+subtitles.traders.entity.wandering_trader.disappeared=流浪商人消失
+subtitles.traders.entity.wandering_trader.drink_milk=流浪商人喝牛奶
+subtitles.traders.entity.wandering_trader.drink_potion=流浪商人喝药水
+subtitles.traders.entity.wandering_trader.hurt=流浪商人受伤
+subtitles.traders.entity.wandering_trader.no=流浪商人表示否定
+subtitles.traders.entity.wandering_trader.reappeared=流浪商人出现
+subtitles.traders.entity.wandering_trader.trade=流浪商人交易
+subtitles.traders.entity.wandering_trader.yes=流浪商人表示肯定
+
+commands.traders.spawnTrader.usage=/spawnTrader <玩家>
+commands.traders.spawnTrader.failure=生成流浪商人失败
+commands.traders.spawnTrader.success=已在 %1$s 生成流浪商人

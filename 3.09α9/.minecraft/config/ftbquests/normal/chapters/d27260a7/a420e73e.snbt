@@ -1,0 +1,39 @@
+{
+	title: "熟悉的临时存储",
+	x: 135.0d,
+	y: 0.0d,
+	text: [
+		"&c左键&r需要存储的物品，对着它&c右键&r即可完成存储，无论物品总共可以容纳64个物品",
+		"",
+		"直接&c右键&r它取用物品，遵循“先进先出”原则",
+		"",
+		"若想在前期获取更好的存储工具（潜影盒），请参考：成长曲线I——升级篇的任务"
+	],
+	dependencies: [
+		"c993da23",
+		"dfeb43a0"
+	],
+	hide: 1b,
+	size: 2.0d,
+	tasks: [{
+		uid: "cf58d8ed",
+		type: "item",
+		items: [{
+			id: "bundles:bundle",
+			tag: {}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "843dd628",
+		type: "item",
+		item: {
+			id: "bundles:bundle",
+			tag: {
+				Items: [],
+				Amount: 0
+			}
+		}
+	}]
+}

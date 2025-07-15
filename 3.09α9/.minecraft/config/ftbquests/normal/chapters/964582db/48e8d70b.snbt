@@ -1,0 +1,17 @@
+{
+	x: 27.5d,
+	y: 5.0d,
+	text: [
+		"造价昂贵，也可通过升级部件升级"
+	],
+	dependencies: [
+		"65f70603"
+	],
+	tasks: [{
+		uid: "98656ae0",
+		type: "item",
+		items: [{
+			item: "iron_barrels:netherite_barrel"
+		}]
+	}]
+}

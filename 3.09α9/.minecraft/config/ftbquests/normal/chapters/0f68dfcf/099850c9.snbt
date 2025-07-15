@@ -1,0 +1,20 @@
+{
+	title: "附魔强化",
+	icon: "defiledlands:book_wyrm_scale_golden",
+	x: -10.0d,
+	y: 0.0d,
+	description: "书龙的繁育",
+	text: [
+		"注：此任务为可选任务，为终局活动道具提供材料；&c大力繁育书刷附魔龙远不如使用村民合同方便"
+	],
+	dependencies: [
+		"8adda180"
+	],
+	hide: 1b,
+	size: 2.0d,
+	tasks: [{
+		uid: "2b7736d1",
+		type: "checkmark",
+		title: "我理解了"
+	}]
+}

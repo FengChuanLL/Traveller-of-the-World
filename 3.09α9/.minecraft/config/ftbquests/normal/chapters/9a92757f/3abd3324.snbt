@@ -1,0 +1,41 @@
+{
+	title: "快乐恶魂",
+	x: 2.5d,
+	y: -15.0d,
+	text: [
+		"制作失水恶魂之后使用水瓶补水即可使其开始孵化，可搭配挽具乘骑"
+	],
+	dependencies: [
+		"17d857c3"
+	],
+	hide: 1b,
+	or_tasks: 1b,
+	tasks: [{
+		uid: "09cc0409",
+		type: "item",
+		items: [{
+			item: "suikehappyghast:dried_ghast"
+		}]
+	},
+	{
+		uid: "46588e0c",
+		type: "item",
+		title: "任意挽具",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any Wanju"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "Wanju"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

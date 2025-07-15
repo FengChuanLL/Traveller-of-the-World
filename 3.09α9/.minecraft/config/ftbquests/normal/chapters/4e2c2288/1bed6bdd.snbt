@@ -1,0 +1,34 @@
+{
+	x: 10.0d,
+	y: 15.0d,
+	description: "&a主世界&o",
+	dependencies: [
+		"d90ea82b"
+	],
+	tasks: [{
+		uid: "d1fbc3d7",
+		type: "item",
+		items: [{
+			id: "spartanshields:shield_tower_iron",
+			tag: {
+				Quality: {
+					Slots: [
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
+						UUIDMost: 4819478292628260967L,
+						UUIDLeast: -5155393010938636390L,
+						AttributeName: "potioncore.magicShielding"
+					}],
+					Name: "quality.arcane.name"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

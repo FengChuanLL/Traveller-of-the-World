@@ -1,0 +1,71 @@
+{
+	title: "战利品",
+	x: 85.0d,
+	y: 20.0d,
+	text: [
+		"双持时会获得力量5效果"
+	],
+	dependencies: [
+		"b8d172e1"
+	],
+	tasks: [{
+		uid: "5915e44c",
+		type: "item",
+		items: [{
+			id: "legendera:fatal_decay",
+			tag: {
+				Quality: {
+					Slots: [
+						"mainhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						Amount: 0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: 2674204718839647706L,
+						UUIDLeast: -8430665321213928969L,
+						AttributeName: "generic.attackDamage"
+					}],
+					Name: "quality.sharp.name"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "bdd12f24",
+		type: "item",
+		items: [{
+			id: "legendera:mortal_world_destroyer",
+			tag: {
+				Quality: {
+					Slots: [
+						"mainhand"
+					],
+					Color: "red",
+					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: 7920421576836007920L,
+						UUIDLeast: -8135426627068237131L,
+						AttributeName: "potioncore.digSpeed"
+					},
+					{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: 3870741270240577784L,
+						UUIDLeast: -7446764395529756999L,
+						AttributeName: "generic.attackDamage"
+					}],
+					Name: "quality.rusted.name"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

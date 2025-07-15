@@ -1,0 +1,17 @@
+{
+	x: 12.0d,
+	y: 5.0d,
+	text: [
+		"造价昂贵，也可通过升级部件升级"
+	],
+	dependencies: [
+		"dfd0f2b7"
+	],
+	tasks: [{
+		uid: "a29bbc00",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 9"
+		}]
+	}]
+}

@@ -1,0 +1,42 @@
+{
+	title: "战利品",
+	x: 85.0d,
+	y: 5.0d,
+	dependencies: [
+		"c36293cb"
+	],
+	tasks: [{
+		uid: "c495060d",
+		type: "item",
+		items: [{
+			id: "legendera:frost_nova_sword",
+			tag: {
+				Quality: {
+					Slots: [
+						"mainhand"
+					],
+					Color: "red",
+					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: -1108259611645557775L,
+						UUIDLeast: -4925172351942694812L,
+						AttributeName: "potioncore.digSpeed"
+					},
+					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: 5065924754128588415L,
+						UUIDLeast: -7971213853215354044L,
+						AttributeName: "generic.attackSpeed"
+					}],
+					Name: "quality.clumsy.name"
+				}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}
